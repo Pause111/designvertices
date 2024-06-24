@@ -28019,6 +28019,12 @@ figcaption {
     box-shadow: 0 6px 20px 0 #14142b91;
 }
 
+.package-selector {
+    padding: 18px 24px 16px;
+    font-size: 16px;
+    line-height: 18px;
+}
+
 .package-selectors {
     list-style: none;
     display: flex;
