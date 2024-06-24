@@ -10329,11 +10329,13 @@ figcaption {
 }
 
 .display-1 {
-    color: var(--neutral--800);
+    /* color: var(--neutral--800); */
     margin-bottom: 12px;
     font-size: 58px;
     font-weight: 700;
-    line-height: 68px;
+    /* line-height: 68px; */
+    line-height: 1.1em !important;
+    color: black !important;
 }
 
 .mg-bottom-0 {
@@ -28016,6 +28018,11 @@ figcaption {
 }
 
 /* Additional CSS */
+.site-logo {
+    height: 55px;
+    object-fit: contain;
+}
+
 .ovflow::-webkit-scrollbar {
     width: 5px;
     border-radius: 10px;

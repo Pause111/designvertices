@@ -3,8 +3,7 @@
 <html data-wf-page="63f8ca18cae258c6e38fd72f">
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="robots" content="noindex">
+    <?php require_once('layout/head.php'); ?>
     <title>Design Vertices | We create amazing websites for tech companies</title>
     <meta content="Design Vertices is a world-class web & mobile apps development agency focused on helping tech companies design, develop, and launch amazing websites." name="description"/>
     <meta content="Design Vertices | We create amazing websites" property="og:title" />
@@ -13,260 +12,13 @@
     <meta content="Design Vertices | We create amazing websites" property="twitter:title" />
     <meta content="Design Vertices is a world-class web design &amp; development agency focused on helping tech companies design, develop, and launch amazing websites." property="twitter:description" />
     <meta content="" property="twitter:image" />
-    <meta property="og:type" content="website" />
-    <meta content="summary_large_image" name="twitter:card" />
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="assets/css/brixagencydev.65be43398.css" rel="stylesheet" type="text/css" />
-    <link href="assets/favicon.jpg" rel="shortcut icon" type="image/x-icon" />
-    <link href="assets/favicon.jpg" rel="apple-touch-icon" />
-
-    <!-- Add windows-os class to to 3D Geometric CTA -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Function to detect Windows OS
-            function isWindows() {
-                return navigator.platform.toUpperCase().indexOf('WIN') > -1;
-            }
-
-            if (isWindows()) {
-                // Get the element with the specific ID
-                const element = document.getElementById('brixctav1');
-
-                // Check if the element exists, and add the 'windows-os' class to it
-                if (element) {
-                    element.classList.add('windows-os');
-                }
-            }
-        });
-    </script>
-
-    <!-- Add classes to BRIX 3D CTA -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Function to detect Windows OS
-            function isWindows() {
-                return navigator.platform.toUpperCase().indexOf('WIN') > -1;
-            }
-
-            if (isWindows()) {
-                // List of element IDs
-                const elementIds = [
-                    'brixbcta1',
-                    'brixbcta2',
-                    'brixbcta3',
-                    'brixbcta4',
-                    'brixbcta5',
-                ];
-
-                // Iterate through the IDs, find the elements, and add the corresponding class names
-                elementIds.forEach(function(id) {
-                    const element = document.getElementById(id);
-
-                    if (element) {
-                        element.classList.add(id);
-                    }
-                });
-            }
-        });
-    </script>
-
-    <style>
-        .site-logo {
-            height: 55px;
-            object-fit: contain;
-        }
-
-        .display-1 {
-            /* text-transform: capitalize; */
-            line-height: 1.1em !important;
-            color: black !important;
-        }
-    </style>
-
-    <!-- Add Windows Styling to 3D Geometric CTA -->
-    <style>
-        .windows-os {
-            background-image: linear-gradient(to bottom, #0A76FF 82%, #0A84FF 91%) !important;
-        }
-    </style>
-
-    <!-- Add Windows Styling to BRIX 3D CTA -->
-    <style>
-        .brixbcta1 {
-            background-image: linear-gradient(90deg, transparent 44%, #0A6EEC 57%) !important;
-        }
-
-        .brixbcta2 {
-            background-image: linear-gradient(180deg, #097CF2 49%, #085AF4 72%, #055BF3) !important;
-        }
-
-        .brixbcta3 {
-            background-image: linear-gradient(153deg, #0782F7 23%, #0780F8 38%, #087CF8 47%, #066DF7 57%, #0957F2 65%, #0957F2 88%) !important;
-        }
-
-        .brixbcta4 {
-            background-color: #1278FF !important;
-        }
-
-        .brixbcta5 {
-            background-color: #0A5ADF !important;
-        }
-
-        @media screen and (max-width: 479px) {
-            .cta.cta-v1-section {
-                background-image: linear-gradient(#0976FE 82.77%, #1986FC) !important;
-            }
-        }
-
-        @media screen and (max-width: 479px) {
-            .cta-v2 {
-                background-image: linear-gradient(84deg, #0b75f1 29.41%, #0a5fd9 73.11%) !important;
-            }
-        }
-
-        @media only screen and (min-width: 1440px) {
-            .brixbcta1 {
-                background-image: linear-gradient(87deg, transparent 30%, #0963e2 43%) !important;
-            }
-            .brixbcta3 {
-                background-image: linear-gradient(153deg, #0B77F3 25%, #0B74F8 31%, #0C5CF3 48%, #0862E1 76%, #0B59F3 80%, #0B59F3 100%) !important;
-            }
-        }
-
-        @media only screen and (min-width: 1280px) {
-            .brixbcta1 {
-                background-image: linear-gradient(90deg, transparent 40%, #0963e2 45%) !important;
-            }
-            .brixbcta3 {
-                background-image: linear-gradient(153deg, #0B77F3 25%, #0B74F8 31%, #0C5CF3 48%, #0862E1 76%, #0B59F3 80%, #0B59F3 100%) !important;
-            }
-        }
-    </style>
-
-    <!-- Add Mac Styling to 3D Geometric CTA -->
-    <style>
-        .cta-v1-section {
-            background-image: linear-gradient(to bottom, #0A76FF 82%, #0A84FF 91%) !important;
-        }
-    </style>
-
-    <!-- Add classes to BRIX 3D CTA -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // List of element IDs
-            const elementIds = [
-                'brixbcta1',
-                'brixbcta2',
-                'brixbcta3',
-                'brixbcta4',
-                'brixbcta5',
-            ];
-
-            // Iterate through the IDs, find the elements, and add the corresponding class names
-            elementIds.forEach(function(id) {
-                const element = document.getElementById(id);
-
-                if (element) {
-                    element.classList.add(id);
-                }
-            });
-        });
-    </script>
 </head>
 
 <body>
-    <!-- <div class="loader">
-        <div class="loader-logo-wrapper"><img src="assets/63f9185e33d0000088995af0_brix-agency-preloader-1.svg" loading="eager" alt="Design Vertices Preloader 1" class="loader-logo-image first-image" /><img src="assets/63f9185e0f4d80256e8b1afa_brix-agency-preloader-2.svg"
-                loading="eager" alt="Design Vertices Preloader 2" class="loader-logo-image second-image" /><img src="assets/63f9185e41353dfe064de4ed_brix-agency-preloader-3.svg" loading="eager" alt="Design Vertices Preloader 3"
-                class="loader-logo-image third-image" /><img src="assets/63f9185ea2f67aab2a6282d6_brix-agency-preloader-4.svg" loading="eager" alt="Design Vertices Preloader 4" class="loader-logo-image last-image"
-            /></div>
-    </div> -->
+    <?php require_once('layout/loader.php'); ?>
     <main class="page-wrapper">
         <!-- Header -->
-        <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav">
-            <div class="container-default w-container">
-                <div data-w-id="fad2882b-2990-69c3-069c-4273a137858d" class="header-wrapper">
-                    <div class="logo-wrapper"><a href="/" aria-current="page" class="logo-container header-logo w-nav-brand w--current"><img src="assets/dvblack.png" alt="Design Vertices Logo" class="site-logo"/></a></div>
-                    <div class="header-content">
-                        <nav role="navigation" class="nav-menu w-nav-menu">
-                            <div class="nav-menu-wrapper">
-                                <a href="/" aria-current="page" class="nav-link w-nav-link w--current">Home</a>
-                                <a href="#!" class="nav-link w-nav-link">About</a>
-                                <a href="#!" class="nav-link w-nav-link">Portfolio</a>
-                                <div data-hover="true" data-delay="0" class="dropdown-link w-dropdown">
-                                    <div class="nav-link dropdown-link w-dropdown-toggle">
-                                        <div>Services</div>
-                                        <div class="line-rounded-icons dropdown-arrow"></div>
-                                    </div>
-                                    <nav class="dropdown-list services-list w-dropdown-list">
-                                        <div>
-                                            <div class="dropdown-list-icon"><img src="assets/63f8f74c4961f261676b472b_dropdown-top-icon-brix-agency.svg" loading="eager" alt="Dropdown" /></div>
-                                            <div class="dropdown-list-wrapper">
-                                                <div class="w-layout-grid dropdown-list-grid">
-                                                    <a href="#!" class="megamenu-link-wrapper hover-red w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762dafb03ab566823efba_web-design-services.png" alt="Web Design Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Web Design</div>
-                                                            <div class="text-100 color-neutral-600">High-converting website design</div>
-                                                        </div>
-                                                    </a>
-                                                    <a href="#!" class="megamenu-link-wrapper hover-yellow w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f07c8cb2bc407099ca_ui-ux-design-services.png" alt="UI/UX Design Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Mobile Apps</div>
-                                                            <div class="text-100 color-neutral-600">Intuitive mobile apps</div>
-                                                        </div>
-                                                    </a>
-                                                    <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db08d7a6d73597a298_web-development-services.png" alt="Web Development Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Web Development</div>
-                                                            <div class="text-100 color-neutral-600">Pixel-perfect web development</div>
-                                                        </div>
-                                                    </a>
-                                                    <a href="#!" class="megamenu-link-wrapper hover-green w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f033c5f7730e4f82ee_brand-design-services.png" alt="Brand Design Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Brand Design</div>
-                                                            <div class="text-100 color-neutral-600">We design world-class brands</div>
-                                                        </div>
-                                                    </a>
-                                                    <a href="#!" class="megamenu-link-wrapper hover-purple w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db378afb58feb7e6bf_conversion-optimization-services.png" alt="Conversion Optimization Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Conversion Optimization</div>
-                                                            <div class="text-100 color-neutral-600">Next-level website performance</div>
-                                                        </div>
-                                                    </a>
-                                                    <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                        <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b94dcb04e9e1171c59c1_automation-services.png" alt="Automation Services" /></div>
-                                                        <div class="megamenu-link-content">
-                                                            <div class="text-100 bold mg-bottom-8px">Automation</div>
-                                                            <div class="text-100 color-neutral-600">Save time with smart automation</div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </nav>
-                                </div>
-                                <a href="#!" class="nav-link w-nav-link">Pricing</a>
-                                <a href="#!" class="nav-link w-nav-link">Blog</a>
-                                <a href="#!c" class="button-primary small header-button w-button">Contact us <span class="line-rounded-icons button-icon small-arrow"></span></a>
-                            </div>
-                        </nav>
-                        <a data-w-id="f112e12f-5371-83e5-d9d3-1049f578da80" href="#!c" class="button-primary small hide-on-mb w-button">Get in touch <span class="line-rounded-icons button-icon small-arrow"></span></a>
-                        <div class="mobile-menu-button w-nav-button">
-                            <div class="mobile-button-wrapper">
-                                <div class="hamburger-menu-line top"></div>
-                                <div class="hamburger-menu-line middle"></div>
-                                <div class="hamburger-menu-line bottom"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php require_once('layout/header.php'); ?>
         <!-- Header -->
 
         <!-- Hero -->
@@ -293,7 +45,7 @@
                         <!-- <video playsinline autoplay muted loop class="hero-video-embed">
                         <source src="assets/brixagency-web-design-agency.mp4" type="video/mp4">
                         </video> -->
-                        <img src="web-dev-about.png" alt="">
+                        <img src="assets/web-dev-about.png" alt="hero section image">
                     </div>
                 </div>
                 <div class="strip-logos-wrapper">
@@ -955,25 +707,7 @@
         <!-- Portfolio -->
 
         <!-- CTA -->
-        <div id="brixctav1" class="cta cta-v1-section">
-            <div class="container-default cta-v1-container w-container">
-                <div class="cta-wrapper cta-v1-wrapper">
-                    <div class="cta-v1-wrapper-content">
-                        <div data-w-id="1823ab59-dca7-48e0-e623-0c9a2a21ca10"></div>
-                        <p data-w-id="3773e68c-a47a-ffd7-b61f-55183d725a6b" class="display-2 color-neutral-100">Ready to create an amazing website for your company?</p>
-                        <p data-w-id="3773e68c-a47a-ffd7-b61f-55183d725a6d" class="color-neutral-100 mg-bottom-40px">Our amazing team of designers &amp; developers is ready to help you take your website to the next level. Send us a message today!</p>
-                        <div data-w-id="3773e68c-a47a-ffd7-b61f-55183d725a6f"><a data-w-id="3773e68c-a47a-ffd7-b61f-55183d725a70" href="#!c" class="button-primary white w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                    </div>
-                    <div data-w-id="35d7ea28-326d-d2e9-4f7e-e11c63720a0f" class="cta-v1-video-wrapper">
-                        <div class="cta-v1-video-embed w-embed">
-                            <video playsinline autoplay muted loop class="cta-v1-video-embed">
-                                <source src="assets/brix-agency-web-development-agency.mp4" type="video/mp4">
-                            </video>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php require_once('layout/cta.php'); ?>
         <!-- CTA -->
 
         <!-- Pricing -->
@@ -1622,142 +1356,15 @@
         <!-- Pricing -->
 
         <!-- CTA 2 -->
-        <div id="brixbcta5" data-w-id="c69512fd-abce-641e-f4fe-76c1abd92eac" class="cta-v2">
-            <div class="container-default w-container">
-                <div class="cta-v2-wrapper">
-                    <p class="heading-size-h2 color-neutral-100">Ready to create an amazing website for your company?</p>
-                    <p class="color-neutral-100 mg-bottom-32px">Our amazing team of designers &amp; developers is ready to help you take your website to the next level. Send us a message today!</p>
-                    <div><a data-w-id="c69512fd-abce-641e-f4fe-76c1abd92eb4" href="#!c" class="button-primary white cta-v2-button w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                </div>
-            </div>
-            <div class="cta-v2-video-wrapper">
-                <div class="cta-v2-video-embed w-embed"><video playsinline autoplay muted loop class="cta-v2-video-embed">
-                <source src="assets/brix-agency-design-agency.mp4" type="video/mp4">
-                </video></div>
-            </div>
-            <div id="brixbcta1" class="cta-v2-front-filter"></div>
-            <div id="brixbcta2" class="cta-v2-top-left"></div>
-            <div id="brixbcta3" class="cta-v2-filter"></div>
-            <div id="brixbcta4" class="cta-v2-bg-support"></div>
-        </div>
+        <?php require_once('layout/cta-2.php'); ?>
         <!-- CTA 2 -->
 
         <!-- Footer -->
-        <footer class="footer" style="padding-top: 3rem;">
-            <div data-w-id="e2df512b-d898-978b-123d-4dff8bd2409b" class="container-default">
-                <div class="footer-top">
-                    <a id="w-node-e2df512b-d898-978b-123d-4dff8bd2409d-1b86de3f" href="/"
-                        aria-current="page" class="logo-container footer-logo w-inline-block w--current">
-                        <img style="height: 55px;" src="assets/dvblack.png" alt="Design Vertices Logo" />
-                    </a>
-                    <div class="nav-menu-wrapper footer-nav-wrapper"><a href="/" aria-current="page"
-                            class="footer-link simple-link w--current">Home</a><a href="#!"
-                            class="footer-link simple-link">About</a><a href="#!"
-                            class="footer-link simple-link">Services</a><a href="#!"
-                            class="footer-link simple-link">Portfolio</a>
-                        <a href="#!" class="footer-link simple-link">Pricing</a>
-                        <a href="#!" class="footer-link simple-link">Blog</a>
-                    </div>
-                    <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240aa-1b86de3f" class="social-media-links-wrapper">
-                        <a href="https://www.facebook.com/designvertices/" target="_blank"
-                            class="icon-wrapper footer-social-media-icon dribbble w-inline-block">
-                            <img src="assets/fb-icon.svg" alt="Facebook Icon" />
-                        </a>
-                        <a
-                            href="https://www.instagram.com/designvertices/" target="_blank"
-                            class="icon-wrapper footer-social-media-icon twitter w-inline-block">
-                            <img
-                                src="assets/insta-icon.svg" alt="Instagram Icon" />
-                        </a>
-                        <a href="https://linkedin.com/company/designvertices/" target="_blank"
-                            class="icon-wrapper footer-social-media-icon linkedin w-inline-block">
-                            <img
-                                src="assets/63f924021e83f1cfd3751f80_linkedin-icon.svg" height="Auto"
-                                alt="LinkedIn Icon" />
-                        </a>
-                    </div>
-                </div>
-                <div class="footer-middle">
-                    <div class="footer-middle-divider">
-                        <div data-w-id="e2df512b-d898-978b-123d-4dff8bd240b3" class="footer-expand-icon">
-                            <div class="footer-icon-line vertical"></div>
-                            <div class="footer-icon-line"></div>
-                        </div>
-                        <div class="divider footer-divider"></div>
-                    </div>
-                    <div class="footer-expand-content">
-                        <div class="vertical-spacer footer-middle-spacer"></div>
-                        <div class="footer-expand-wrapper">
-                            <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240ba-1b86de3f">
-                                <div class="subtitle footer-subtitle">Services</div>
-                                <div class="w-layout-grid footer-links-grid">
-                                    <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240be-1b86de3f" class="footer-links-wrapper">
-                                        <a id="w-node-e2df512b-d898-978b-123d-4dff8bd240bf-1b86de3f"
-                                            href="#!/saas-website-design-agency" class="footer-link">SaaS Website Design
-                                            Agency</a><a href="#!/saas-web-design" class="footer-link">SaaS Web Design</a><a
-                                            href="#!/saas-ui-ux-design" class="footer-link">SaaS UI UX Design Agency</a><a
-                                            href="#!/nocode-agency" class="footer-link">NoCode Web Design Agency</a><a
-                                            href="#!/crypto-design-agency" class="footer-link">Crypto Design Agency</a><a
-                                            href="#!/artificial-intelligence-design-agency" class="footer-link">AI Design
-                                            Agency</a><a href="#!/webflow-design-agency" class="footer-link">Webflow Agency</a><a
-                                            href="#!/webflow-enterpise-partner" class="footer-link">Webflow Enterprise Partner</a>
-                                    </div>
-                                    <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240cd-1b86de3f" class="footer-links-wrapper">
-                                        <a id="w-node-e2df512b-d898-978b-123d-4dff8bd240ce-1b86de3f" href="#!/webflow-experts"
-                                            class="footer-link">Webflow Experts</a><a href="#!/webflow-freelancers"
-                                            class="footer-link">Webflow Freelancers</a><a
-                                            href="#!/figma-to-webflow-development-agency" class="footer-link">Figma to Webflow
-                                            Agency</a><a href="#!/memberstack-agency" class="footer-link">Memberstack Agency</a><a
-                                            href="#!/jetboost-agency" class="footer-link">Jetboost Agency</a><a
-                                            href="#!/design-recruiter" class="footer-link">Design Recruiter</a>
-                                        <a href="#!/software-developer-recruiter" class="footer-link">Software Developer
-                                            Recruiter</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240dc-1b86de3f">
-                                <div class="subtitle footer-subtitle" style="opacity: 0;">Products</div>
-                                <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240cd-1b86de3f" class="footer-links-wrapper">
-                                    <a id="w-node-e2df512b-d898-978b-123d-4dff8bd240ce-1b86de3f" href="#!/webflow-experts"
-                                        class="footer-link">Webflow Experts</a><a href="#!/webflow-freelancers"
-                                        class="footer-link">Webflow Freelancers</a><a
-                                        href="#!/figma-to-webflow-development-agency" class="footer-link">Figma to Webflow
-                                        Agency</a><a href="#!/memberstack-agency" class="footer-link">Memberstack Agency</a><a
-                                        href="#!/jetboost-agency" class="footer-link">Jetboost Agency</a><a
-                                        href="#!/design-recruiter" class="footer-link">Design Recruiter</a>
-                                    <a href="#!/software-developer-recruiter" class="footer-link">Software Developer
-                                        Recruiter</a>
-                                </div>
-                            </div>
-                            <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240ef-1b86de3f">
-                                <div class="subtitle footer-subtitle">Cities</div>
-                                <div class="footer-links-wrapper"><a id="w-node-e2df512b-d898-978b-123d-4dff8bd240f3-1b86de3f"
-                                        href="#!" class="footer-link">San Francisco Web
-                                        Design</a><a href="#!" class="footer-link">Los Angeles Web
-                                        Design</a>
-                                    <a href="#!" class="footer-link">California Web Design</a><a
-                                        href="#!" class="footer-link">New York Web Design</a><a
-                                        href="#!" class="footer-link">Chicago Web Design</a><a
-                                        href="#!" class="footer-link">Austin, Texas Web Design</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vertical-spacer footer-middle-spacer border-bottom"></div>
-                    </div>
-                </div>
-                <div class="footer-bottom">
-                    <div class="copyright-text">Copyright © 2024 Design Vertices™ | All Rights Reserved | <a href="#!"
-                            class="text-link copyright-link">Sitemap</a></div>
-                            <a
-                        id="w-node-e2df512b-d898-978b-123d-4dff8bd24105-1b86de3f" href="#!"
-                        class="w-inline-block" style="background-color: #146ef5;padding: 5px 15px 4px;color: white;text-decoration: none;border-radius: 5px;">Policies</a>
-                </div>
-            </div>
-        </footer>
+        <?php require_once('layout/footer.php'); ?>
         <!-- Footer -->
     </main>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="assets/js/main.js" type="text/javascript"></script>
+
+    <?php require_once('layout/scripts.php'); ?>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const packageSelectors = document.querySelectorAll('.package-selector');
