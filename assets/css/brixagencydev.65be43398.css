@@ -11306,10 +11306,6 @@ figcaption {
     font-size: 14px;
 }
 
-.package-item:hover {
-    box-shadow: 0 6px 20px 0 #14142b91;
-}
-
 .pricing-breaker {
     border: 1px solid #f5f5f5;
     border-radius: 100%;
@@ -28017,4 +28013,16 @@ figcaption {
 
 .order-btn {
     padding: 1rem 2rem !important;
+}
+
+.package-item:hover {
+    box-shadow: 0 6px 20px 0 #14142b91;
+}
+
+.package-selectors {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 3rem;
 }
