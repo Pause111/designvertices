@@ -1414,8 +1414,12 @@
                 selector.addEventListener('click', function (event) {
                     event.preventDefault();
 
-                    packageSelectors.forEach(sel => sel.classList.remove('active'));
-                    this.classList.add('active');
+                    packageSelectors.forEach(sel => {
+                        sel.classList.remove('active', 'button-primary');
+                        sel.classList.add('button-secondary');
+                    });
+                    this.classList.remove('button-secondary');
+                    this.classList.add('active', 'button-primary');
 
                     const packageName = this.getAttribute('data-package');
                     showPackage(packageName);
