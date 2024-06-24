@@ -11297,6 +11297,7 @@ figcaption {
 .ovflow {
     overflow-y: scroll;
     height: 300px;
+    margin-bottom: 35px;
 }
 
 .ovflow li {
@@ -28008,4 +28009,8 @@ figcaption {
     background: #FD4C4C;
     border-radius: 10px;
 
+}
+
+.order-btn {
+    padding: 1rem 2rem !important;
 }
