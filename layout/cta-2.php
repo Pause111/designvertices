@@ -3,7 +3,7 @@
         <div class="cta-v2-wrapper">
             <p class="heading-size-h2 color-neutral-100">Ready to create an amazing website for your company?</p>
             <p class="color-neutral-100 mg-bottom-32px">Our amazing team of designers &amp; developers is ready to help you take your website to the next level. Send us a message today!</p>
-            <div><a data-w-id="c69512fd-abce-641e-f4fe-76c1abd92eb4" href="#!c" class="button-primary white cta-v2-button w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
+            <div><a data-w-id="c69512fd-abce-641e-f4fe-76c1abd92eb4" href="contact" class="button-primary white cta-v2-button w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
         </div>
     </div>
     <div class="cta-v2-video-wrapper">

@@ -1,34 +1,28 @@
 <footer class="footer" style="padding-top: 3rem;">
     <div data-w-id="e2df512b-d898-978b-123d-4dff8bd2409b" class="container-default">
         <div class="footer-top">
-            <a id="w-node-e2df512b-d898-978b-123d-4dff8bd2409d-1b86de3f" href="/"
-                aria-current="page" class="logo-container footer-logo w-inline-block w--current">
+            <a id="w-node-e2df512b-d898-978b-123d-4dff8bd2409d-1b86de3f" href="/" class="logo-container footer-logo w-inline-block">
                 <img style="height: 55px;" src="assets/dvblack.png" alt="Design Vertices Logo" />
             </a>
-            <div class="nav-menu-wrapper footer-nav-wrapper"><a href="/" aria-current="page"
-                    class="footer-link simple-link w--current">Home</a><a href="#!"
-                    class="footer-link simple-link">About</a><a href="#!"
-                    class="footer-link simple-link">Services</a><a href="#!"
-                    class="footer-link simple-link">Portfolio</a>
-                <a href="#!" class="footer-link simple-link">Pricing</a>
-                <a href="#!" class="footer-link simple-link">Blog</a>
+            <div class="nav-menu-wrapper footer-nav-wrapper">
+                <a href="/" class="footer-link simple-link">Home</a>
+                <a href="about" class="footer-link simple-link">About</a>
+                <a href="services" class="footer-link simple-link">Services</a>
+                <a href="portfolio" class="footer-link simple-link">Portfolio</a>
+                <a href="pricing" class="footer-link simple-link">Pricing</a>
+                <a href="blog" class="footer-link simple-link">Blog</a>
+                <a href="contact" class="footer-link simple-link">Contact</a>
             </div>
             <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240aa-1b86de3f" class="social-media-links-wrapper">
                 <a href="https://www.facebook.com/designvertices/" target="_blank"
                     class="icon-wrapper footer-social-media-icon dribbble w-inline-block">
                     <img src="assets/fb-icon.svg" alt="Facebook Icon" />
                 </a>
-                <a
-                    href="https://www.instagram.com/designvertices/" target="_blank"
-                    class="icon-wrapper footer-social-media-icon twitter w-inline-block">
-                    <img
-                        src="assets/insta-icon.svg" alt="Instagram Icon" />
+                <a href="https://www.instagram.com/designvertices/" target="_blank" class="icon-wrapper footer-social-media-icon twitter w-inline-block">
+                    <img src="assets/insta-icon.svg" alt="Instagram Icon" />
                 </a>
-                <a href="https://linkedin.com/company/designvertices/" target="_blank"
-                    class="icon-wrapper footer-social-media-icon linkedin w-inline-block">
-                    <img
-                        src="assets/63f924021e83f1cfd3751f80_linkedin-icon.svg" height="Auto"
-                        alt="LinkedIn Icon" />
+                <a href="https://linkedin.com/company/designvertices/" target="_blank" class="icon-wrapper footer-social-media-icon linkedin w-inline-block">
+                    <img src="assets/63f924021e83f1cfd3751f80_linkedin-icon.svg" height="Auto" alt="LinkedIn Icon" />
                 </a>
             </div>
         </div>

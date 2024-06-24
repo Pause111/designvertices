@@ -6,8 +6,8 @@
                 <nav role="navigation" class="nav-menu w-nav-menu">
                     <div class="nav-menu-wrapper">
                         <a href="/" aria-current="page" class="nav-link w-nav-link w--current">Home</a>
-                        <a href="#!" class="nav-link w-nav-link">About</a>
-                        <a href="#!" class="nav-link w-nav-link">Portfolio</a>
+                        <a href="about" class="nav-link w-nav-link">About</a>
+                        <a href="portfolio" class="nav-link w-nav-link">Portfolio</a>
                         <div data-hover="true" data-delay="0" class="dropdown-link w-dropdown">
                             <div class="nav-link dropdown-link w-dropdown-toggle">
                                 <div>Services</div>
@@ -65,12 +65,12 @@
                                 </div>
                             </nav>
                         </div>
-                        <a href="#!" class="nav-link w-nav-link">Pricing</a>
-                        <a href="#!" class="nav-link w-nav-link">Blog</a>
-                        <a href="#!c" class="button-primary small header-button w-button">Contact us <span class="line-rounded-icons button-icon small-arrow"></span></a>
+                        <a href="pricing" class="nav-link w-nav-link">Pricing</a>
+                        <a href="blog" class="nav-link w-nav-link">Blog</a>
+                        <a href="contact" class="button-primary small header-button w-button">Contact us <span class="line-rounded-icons button-icon small-arrow"></span></a>
                     </div>
                 </nav>
-                <a data-w-id="f112e12f-5371-83e5-d9d3-1049f578da80" href="#!c" class="button-primary small hide-on-mb w-button">Get in touch <span class="line-rounded-icons button-icon small-arrow"></span></a>
+                <a data-w-id="f112e12f-5371-83e5-d9d3-1049f578da80" href="contact" class="button-primary small hide-on-mb w-button">Get in touch <span class="line-rounded-icons button-icon small-arrow"></span></a>
                 <div class="mobile-menu-button w-nav-button">
                     <div class="mobile-button-wrapper">
                         <div class="hamburger-menu-line top"></div>
