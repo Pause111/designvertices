@@ -28032,3 +28032,11 @@ figcaption {
     gap: 1rem;
     margin-bottom: 3rem;
 }
+
+.package-item {
+    display: none;
+}
+
+.package-item.active {
+    display: flex;
+}

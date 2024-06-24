@@ -990,16 +990,16 @@
             <div class="container-default w-container">
 
                 <ul class="package-selectors">
-                    <li><a href="" class="button-primary package-selector active">Web Design</a></li>
-                    <li><a href="" class="button-secondary package-selector">Mobile Apps</a></li>
-                    <li><a href="" class="button-secondary package-selector">Branding</a></li>
-                    <li><a href="" class="button-secondary package-selector">SEO</a></li>
-                    <li><a href="" class="button-secondary package-selector">SMM</a></li>
-                    <li><a href="" class="button-secondary package-selector">Video Animation</a></li>
+                    <li><a href="" class="button-primary package-selector active" data-package="web">Web Design</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="mobile">Mobile Apps</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="branding">Branding</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="seo">SEO</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="smm">SMM</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li>
                 </ul>
 
                 <div class="w-layout-grid features-grid three-columns">
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item web active">
                         <div class="full-width">
                             <p class="features-grid-heading">Startup Package</p>
                             <div class="special-display about-grid-display text-primary">$250<span class="old-price" style="text-decoration: line-through;">$500</span></div>
@@ -1028,7 +1028,7 @@
                         </div>
                     </div>
 
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item web active">
                         <div class="full-width">
                             <p class="features-grid-heading">Basic Package</p>
                             <div class="special-display about-grid-display text-primary">$400<span class="old-price">$800</span></div>
@@ -1060,7 +1060,7 @@
                         </div>
                     </div>
 
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item web active">
                         <div class="full-width">
                             <p class="features-grid-heading">Professional Package</p>
                             <div class="special-display about-grid-display text-primary">$850<span class="old-price">$1700</span></div>
@@ -1095,7 +1095,7 @@
                         </div>
                     </div>
 
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item mobile">
                         <div class="full-width">
                             <p class="features-grid-heading">Business Package</p>
                             <div class="special-display about-grid-display text-primary">$1750<span class="old-price" style="text-decoration: line-through;">$3500</span></div>
@@ -1130,7 +1130,7 @@
                         </div>
                     </div>
 
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item mobile">
                         <div class="full-width">
                             <p class="features-grid-heading">Premium Package</p>
                             <div class="special-display about-grid-display text-primary">$3000<span class="old-price">$6000</span></div>
@@ -1181,7 +1181,7 @@
                         </div>
                     </div>
 
-                    <div class="card features-grid-card vertical-card package-item">
+                    <div class="card features-grid-card vertical-card package-item branding">
                         <div class="full-width">
                             <p class="features-grid-heading">Enterprise Package</p>
                             <div class="special-display about-grid-display text-primary">$5000<span class="old-price">$1000</span></div>
@@ -1258,6 +1258,7 @@
         </div>
         <!-- Pricing -->
 
+        <!-- CTA 2 -->
         <div id="brixbcta5" data-w-id="c69512fd-abce-641e-f4fe-76c1abd92eac" class="cta-v2">
             <div class="container-default w-container">
                 <div class="cta-v2-wrapper">
@@ -1276,7 +1277,9 @@
             <div id="brixbcta3" class="cta-v2-filter"></div>
             <div id="brixbcta4" class="cta-v2-bg-support"></div>
         </div>
+        <!-- CTA 2 -->
 
+        <!-- Footer -->
         <footer class="footer" style="padding-top: 3rem;">
             <div data-w-id="e2df512b-d898-978b-123d-4dff8bd2409b" class="container-default">
                 <div class="footer-top">
@@ -1388,9 +1391,41 @@
                 </div>
             </div>
         </footer>
+        <!-- Footer -->
     </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="assets/js/main.js" type="text/javascript"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const packageSelectors = document.querySelectorAll('.package-selector');
+            const packageItems = document.querySelectorAll('.package-item');
+
+            function showPackage(packageName) {
+                packageItems.forEach(item => {
+                    if (item.classList.contains(packageName)) {
+                        item.classList.add('active');
+                    } else {
+                        item.classList.remove('active');
+                    }
+                });
+            }
+
+            packageSelectors.forEach(selector => {
+                selector.addEventListener('click', function (event) {
+                    event.preventDefault();
+
+                    packageSelectors.forEach(sel => sel.classList.remove('active'));
+                    this.classList.add('active');
+
+                    const packageName = this.getAttribute('data-package');
+                    showPackage(packageName);
+                });
+            });
+
+            // Show the default package (web) on page load
+            showPackage('web');
+        });
+    </script>
 </body>
 
 </html>
