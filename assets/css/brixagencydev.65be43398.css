@@ -3936,6 +3936,10 @@ figcaption {
     justify-content: space-between;
 }
 
+.package-item {
+    display: none;
+}
+
 .card.features-grid-card {
     text-align: center;
     flex-direction: column;
