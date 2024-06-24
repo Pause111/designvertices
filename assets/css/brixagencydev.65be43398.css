@@ -28061,9 +28061,7 @@ figcaption {
 
 @media screen and (max-width: 500px) {
     .package-selectors {
-        list-style: none;
-        display: flex;
-        gap: 1rem;
+        justify-content: start;
         margin-bottom: 1rem;
         overflow-x: scroll;
         padding-top: 1rem;
