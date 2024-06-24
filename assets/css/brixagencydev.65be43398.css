@@ -11304,7 +11304,7 @@ figcaption {
 
 .ovflow {
     overflow-y: scroll;
-    height: 300px;
+    height: 250px;
     margin-bottom: 35px;
 }
 
@@ -28004,18 +28004,18 @@ figcaption {
 }
 
 /* Additional CSS */
-.ovflow::-webkit-scrollbar {
+.web .ovflow::-webkit-scrollbar {
     width: 5px;
     border-radius: 10px;
 }
 
-.ovflow::-webkit-scrollbar-track {
+.web .ovflow::-webkit-scrollbar-track {
     background: rgba(0, 0, 0, .05);
     border-radius: 10px;
 
 }
 
-.ovflow::-webkit-scrollbar-thumb {
+.web .ovflow::-webkit-scrollbar-thumb {
     background: #FD4C4C;
     border-radius: 10px;
 
