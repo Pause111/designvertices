@@ -212,7 +212,7 @@ th {
 
 [class^="w-icon-"],
 [class*=" w-icon-"] {
-    speak: none;
+    /* speak: none; */
     font-variant: normal;
     text-transform: none;
     -webkit-font-smoothing: antialiased;
@@ -3328,7 +3328,7 @@ figcaption {
     border-radius: 64px;
     padding: 26px 38px 24px;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 20px;
     text-decoration: none;
     transition: transform .3s, background-color .3s, box-shadow .3s;
