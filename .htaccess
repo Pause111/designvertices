@@ -34,3 +34,5 @@ RewriteRule ^/?(.*)$ /$1.html [L]
 # Redirect 301 /index.html /
 Redirect 301 /index.php /
 Redirect 301 /index /
+
+ErrorDocument 404 /404.php
