@@ -11309,6 +11309,13 @@ figcaption {
 }
 
 .smm .ovflow,
+.seo .ovflow,
+.branding .ovflow,
+.video .ovflow {
+    height: 250px !important;
+}
+
+.smm .ovflow,
 .seo .ovflow {
     overflow-y: hidden !important;
 }
