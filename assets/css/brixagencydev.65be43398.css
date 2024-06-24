@@ -3937,6 +3937,10 @@ figcaption {
 }
 
 .package-item {
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 38px 28px;
     display: none;
 }
 
@@ -22057,7 +22061,7 @@ figcaption {
     .card.thank-you-wrapper {
         padding: 48px 32px;
     }
-    .card.features-grid-card {
+    .card.features-grid-card, .card.package-item {
         padding: 36px 32px;
     }
     .card.features-grid-card.horizontal-card {
@@ -24874,9 +24878,10 @@ figcaption {
         padding-left: 24px;
         padding-right: 24px;
     }
-    .card.features-grid-card {
+    .card.features-grid-card, .card.package-item {
         padding: 32px 24px;
     }
+
     .card.features-grid-card.horizontal-card {
         text-align: center;
         flex-direction: column;
