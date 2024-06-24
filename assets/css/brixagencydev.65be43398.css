@@ -28058,4 +28058,16 @@ figcaption {
 .package-item.active {
     display: flex;
 }
+
+@media screen and (max-width: 500px) {
+    .package-selectors {
+        list-style: none;
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1rem;
+        overflow-x: scroll;
+        padding-top: 1rem;
+        padding-left: 0;
+    }
+}
 /* Additional CSS */
