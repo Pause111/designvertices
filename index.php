@@ -12,6 +12,7 @@
     <meta content="Design Vertices | We create amazing websites" property="twitter:title" />
     <meta content="Design Vertices is a world-class web design &amp; development agency focused on helping tech companies design, develop, and launch amazing websites." property="twitter:description" />
     <meta content="" property="twitter:image" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -507,6 +508,7 @@
     </main>
 
     <?php require_once('layout/scripts.php'); ?>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const packageSelectors = document.querySelectorAll('.package-selector');
@@ -540,6 +542,34 @@
 
             // Show the default package (web) on page load
             showPackage('web');
+
+            // Select all anchor tags with class 'project-item'
+            const projectItems = document.querySelectorAll('a.project-item');
+
+            projectItems.forEach(item => {
+                // Find the img tag within the anchor tag
+                const img = item.querySelector('img');
+
+                // If an img tag is found, replace the href attribute of the anchor tag with the src attribute of the img tag
+                if (img) {
+                    item.href = img.src;
+                }
+            });
+
+            // Fancybox Config
+            $('[data-fancybox="gallery"]').fancybox({
+                buttons: [
+                    "slideShow",
+                    "thumbs",
+                    "zoom",
+                    "fullScreen",
+                    "share",
+                    "close"
+                ],
+                loop: true,
+                protect: true
+            });
+
         });
     </script>
 </body>
