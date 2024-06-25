@@ -35,6 +35,12 @@
         <!-- Hero -->
         <div class="section hero-marquee-section">
             <div class="container-default w-container">
+                <img src="assets/earth-1.png" alt="" style="
+                    position: absolute;
+                    z-index: 1;
+                    right: 2%;
+                    top: 15%;
+                ">
                 <div class="project-hero-wrapper">
                     <h1 data-w-id="7425446c-08f6-465b-0ad4-2eb789deedcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                         class="subtitle">SEO Agency</h1>
