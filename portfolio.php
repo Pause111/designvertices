@@ -159,7 +159,7 @@
                                         <div class="project-item-btn-wrapper">
                                             <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                         </div>
-                                        <img style="height: 100%;" alt="App Project - Design Vertices" src="assets/app-portfolio/a<?php echo $i; ?>.webp" />
+                                        <img style="height: 100%;object-fit:cover;" alt="App Project - Design Vertices" src="assets/app-portfolio/a<?php echo $i; ?>.webp" />
                                     </a>
                                 <?php } ?>
                             </div>
@@ -176,7 +176,7 @@
                                         <div class="project-item-btn-wrapper">
                                             <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                         </div>
-                                        <img style="height: 100%;" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
+                                        <img style="height: 100%;object-fit:cover;" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                                     </a>
                                 <?php } ?>
                             </div>
