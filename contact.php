@@ -95,7 +95,7 @@
                                             Design</span>
                                     </label><label class="w-checkbox checkbox-item">
                                         <div
-                                            class="w-checkbox-input w-checkbox-input--inputType-custom checkbox-absolute green-checked w--redirected-checked">
+                                            class="w-checkbox-input w-checkbox-input--inputType-custom checkbox-absolute green-checked">
                                         </div><input id="ui-ux-design" type="checkbox" name="UI-UX-Design"
                                             data-name="UI/UX Design" style="opacity:0;position:absolute;z-index:-1">
                                         <div class="icon-wrapper contact-checkbox-wrapper"><img
