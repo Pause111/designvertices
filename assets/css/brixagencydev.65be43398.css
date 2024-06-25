@@ -28049,7 +28049,7 @@ figcaption {
 }
 
 .portfolio-section .package-item:hover {
-    box-shadow: 0 !important;
+    box-shadow: unset !important;
 }
 
 .package-selector {
