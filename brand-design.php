@@ -4,12 +4,12 @@
 
 <head>
     <?php require_once('layout/head.php'); ?>
-    <title>The #1 Brand Design design agency | Design Vertices</title>
+    <title>The #1 Brand Design agency | Design Vertices</title>
     <meta content="Looking to design an amazing Brand Design for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
-    <meta content="The #1 SaaS Brand Design design agency | Design Vertices" property="og:title" />
+    <meta content="The #1 SaaS Brand Design agency | Design Vertices" property="og:title" />
     <meta content="Looking to design an amazing Brand Design for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
     <meta content="" property="og:image" />
-    <meta content="The #1 SaaS Brand Design design agency | Design Vertices" property="twitter:title" />
+    <meta content="The #1 SaaS Brand Design agency | Design Vertices" property="twitter:title" />
     <meta content="Looking to design an amazing Brand Design for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="twitter:description" />
     <meta content="" property="twitter:image" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -112,7 +112,7 @@
                         class="heading-wrapper horizontal-content-wrapper">
                         <div class="inner-container _620px">
                             <h2 class="subtitle color-neutral-100">Brand Design Agency Services</h2>
-                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your App grow</p>
+                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your Brand grow</p>
                         </div>
                         <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"><a href="contact" data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3f" target="_blank" class="button-primary white w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                     </div>
@@ -120,22 +120,22 @@
                         class="horizontal-wrapper-content">
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">Brand Design Design Agency</h3>
-                                <p class="horizontal-item-text">Our team helps startups design apps that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
+                                <h3 class="horizontal-item-heading">Brand Design Agency</h3>
+                                <p class="horizontal-item-text">Our team helps startups design brands that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper bg-light-blue"><img src="assets/6407884ca5b1e88119c65bbd_saas-website-design-agency.png" loading="eager" alt="SaaS Brand Design Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Brand Design Development Agency</h3>
-                                <p class="horizontal-item-text">Our apps are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
+                                <p class="horizontal-item-text">Our brands are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS app Development Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Conversion Rate Optimization Agency</h3>
-                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core apps, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
+                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core brands, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c56eac51249d116ca_saas-conversion-rate-optimization-agency.png" loading="eager" alt="SaaS Conversion Rate Optimization Agency" class="horizontal-item-image"
                                 /></div>
@@ -143,7 +143,7 @@
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">CMS App Agency</h3>
-                                <p class="horizontal-item-text">We help your company to build apps on any CMS platforms like Webflow, Wordpress or Shopify to increase app performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
+                                <p class="horizontal-item-text">We help your company to build brands on any CMS platforms like Webflow, Wordpress or Shopify to increase app performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS app Migration Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -187,14 +187,14 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Best app development standards</p>
-                            <p class="features-grid-text">We build apps following the best app development standards of 2024, so your app will have top-notch performance.</p>
+                            <p class="features-grid-text">We build brands following the best app development standards of 2024, so your app will have top-notch performance.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b02e8e4a86b39c7bc36_saas-website-experts.png" loading="lazy" alt="SaaS app Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Easy to management and scale</p>
-                            <p class="features-grid-text">Our apps are built only on cutting-edge CMS platforms that are focused on easy app management and long-term escalation.</p>
+                            <p class="features-grid-text">Our brands are built only on cutting-edge CMS platforms that are focused on easy app management and long-term escalation.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeaa-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -208,7 +208,7 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0257c6aa046581768c_saas-website-seo-optimization-experts.png" loading="lazy" alt="SaaS app SEO Optimization Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">On-page SEO optimization</p>
-                            <p class="features-grid-text">All our client apps are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
+                            <p class="features-grid-text">All our client brands are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeba-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -246,7 +246,7 @@
                     class="inner-container _712px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Past projects</h2>
                     <p class="heading-size-h2">Let our work speak for itself</p>
-                    <p>Want to discover what we can do? Take a look at some of the amazing apps that have been created by our team of talented designers and developers.</p>
+                    <p>Want to discover what we can do? Take a look at some of the amazing brands that have been created by our team of talented designers and developers.</p>
                 </div>
             </div>
             <div class="package-item branding">
@@ -282,7 +282,7 @@
                     class="inner-container _712px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Packages</h2>
                     <p class="heading-size-h2">Pocket Friendly Pricing</p>
-                    <p>Want to discover what we can do? Take a look at some of the amazing apps that have been created by our team of talented designers and developers.</p>
+                    <p>Want to discover what we can do? Take a look at some of the amazing brands that have been created by our team of talented designers and developers.</p>
                 </div>
             </div>
 
@@ -361,7 +361,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Unlike the old days, now a days most apps are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a app is low</strong>.</p>
+                                <p>Unlike the old days, now a days most brands are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a app is low</strong>.</p>
                                 <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
                             </div>
                         </div>
