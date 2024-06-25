@@ -260,9 +260,6 @@
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 10; $i++) { ?>
                             <a data-fancybox="gallery" href="" class="portfolio-item">
-                                <div class="project-item-btn-wrapper">
-                                    <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                </div>
                                 <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
                             </a>
                         <?php } ?>
