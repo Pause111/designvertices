@@ -40,8 +40,6 @@
                     <li><a href="" class="button-primary package-selector active" data-package="web">Web Design</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="mobile">Mobile Apps</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="branding">Branding</a></li>
-                    <li><a href="" class="button-secondary package-selector" data-package="seo">SEO</a></li>
-                    <li><a href="" class="button-secondary package-selector" data-package="smm">SMM</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li>
                 </ul>
 
