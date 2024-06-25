@@ -45,7 +45,7 @@
                     <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li>
                 </ul>
 
-                <div class="project-images-wrapper first-row">
+                <div class="project-images-wrapper first-row package-item web active">
                     <div class="projects-marquee first-row">
                         <div class="marquee">
                             <a data-fancybox="gallery" href="https://ideahubtemplate.webflow.io/" target="_blank" class="project-item project-item-link w-inline-block">
@@ -255,7 +255,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="project-images-wrapper">
+                <div class="project-images-wrapper package-item web active">
                     <div class="projects-marquee first-row">
                         <div class="marquee">
                             <a data-fancybox="gallery" href="https://delivertemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
@@ -464,6 +464,32 @@
                                 </div><img alt="Startux Portfolio Project - Design Vertices" src="assets/641a62fc3ed759860d3dc6b4_startux-portfolio-project-brix-agency.jpg" /></a>
                         </div>
                     </div>
+                </div>
+
+                <div class="project-images-wrapper first-row package-item mobile">
+                    <div class="projects-marquee first-row">
+                        <div class="marquee">
+                            <?php for ($i=1; $i <= 10; $i++) { ?>
+                                <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                                    <div class="project-item-btn-wrapper">
+                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                    </div>
+                                    <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
+                                </a>
+                            <?php } ?>
+                            
+                        </div>
+                        <div class="marquee">
+                            <?php for ($i=11; $i < 17; $i++) { ?>
+                                <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                                    <div class="project-item-btn-wrapper">
+                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                    </div>
+                                    <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
+                                </a>
+                            <?php } ?>
+                        </div>
+                    </div>    
                 </div>
             </div>
 
@@ -516,7 +542,7 @@
             protect: true
         });
     </script>
-    <!-- <script>
+    <script>
         document.addEventListener('DOMContentLoaded', function () {
             const packageSelectors = document.querySelectorAll('.package-selector');
             const packageItems = document.querySelectorAll('.package-item');
@@ -550,7 +576,7 @@
             // Show the default package (web) on page load
             showPackage('web');
         });
-    </script> -->
+    </script>
 </body>
 
 </html>
