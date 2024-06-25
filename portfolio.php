@@ -256,217 +256,6 @@
                             </div>
                         </div>
                     </div>
-    
-                    <!-- <div class="project-images-wrapper">
-                        <div class="projects-marquee first-row">
-                            <div class="marquee">
-                                <a data-fancybox="gallery" href="https://delivertemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Deliver Portfolio Project - Design Vertices" src="assets/64123168d5f1ad2470e6e5f9_deliver-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://softwaretemplate.webflow.io/homes/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Software Portfolio Project - Design Vertices" src="assets/64122ee832c054ca8e04f24b_software-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://gradienttemplates.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Gradient Portfolio Project - Design Vertices" src="assets/64122ee82e5b77f47e3847b0_gradient-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://darkfoliotemplate.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Darkfolio Portfolio Project - Design Vertices" src="assets/641a62fcfbf80d100571116e_darkfolio-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://studioprotemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Studiopro Portfolio Project - Design Vertices" src="assets/64122ee9a5dc867c4e8e9eb6_studiopro-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://venturetemplate.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Venture Portfolio Project - Design Vertices" src="assets/641a62fcb8c402704119a04f_venture-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://apptemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Appfly Portfolio Project - Design Vertices" src="assets/641a62fcf54c56216f36a639_appfly-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://architecttemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Architect Portfolio Project - Design Vertices" src="assets/64122ee8bf2ccbfb49477af2_architect-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://resorthotel.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Resort Portfolio Project - Design Vertices" src="assets/64122ee8b72e625486334aeb_resort-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://streamingtemplates.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Streaming Portfolio Project - Design Vertices" src="assets/64122ee8ca1805a5a4a77186_streaming-portfolio-project-brix-agency.jpg" /></a>
-                            </div>
-                            <div class="marquee">
-                                <a data-fancybox="gallery" href="https://delivertemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Deliver Portfolio Project - Design Vertices" src="assets/64123168d5f1ad2470e6e5f9_deliver-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://softwaretemplate.webflow.io/homes/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Software Portfolio Project - Design Vertices" src="assets/64122ee832c054ca8e04f24b_software-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://gradienttemplates.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Gradient Portfolio Project - Design Vertices" src="assets/64122ee82e5b77f47e3847b0_gradient-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://darkfoliotemplate.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Darkfolio Portfolio Project - Design Vertices" src="assets/641a62fcfbf80d100571116e_darkfolio-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://studioprotemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Studiopro Portfolio Project - Design Vertices" src="assets/64122ee9a5dc867c4e8e9eb6_studiopro-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://venturetemplate.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Venture Portfolio Project - Design Vertices" src="assets/641a62fcb8c402704119a04f_venture-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://apptemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Appfly Portfolio Project - Design Vertices" src="assets/641a62fcf54c56216f36a639_appfly-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://architecttemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Architect Portfolio Project - Design Vertices" src="assets/64122ee8bf2ccbfb49477af2_architect-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://resorthotel.webflow.io/home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Resort Portfolio Project - Design Vertices" src="assets/64122ee8b72e625486334aeb_resort-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://streamingtemplates.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Streaming Portfolio Project - Design Vertices" src="assets/64122ee8ca1805a5a4a77186_streaming-portfolio-project-brix-agency.jpg" /></a>
-                            </div>
-                        </div>
-                        <div class="projects-marquee second-row">
-                            <div class="marquee">
-                                <a data-fancybox="gallery" href="https://spatemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Spa Portfolio Project - Design Vertices" src="assets/64122ee74b9aaa8125708ce3_spa-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://creativetemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Graphik Portfolio Project - Design Vertices" src="assets/641a62fca68930c604700abe_graphik-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://darkwebtemplate.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Darkweb Portfolio Project - Design Vertices" src="assets/64122eeadf735872903dac2b_darkweb-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://commercetemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Commerce Portfolio Project - Design Vertices" src="assets/641a62fdc04bba82b78cc22e_commerce-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://startupxtemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Startuper Portfolio Project - Design Vertices" src="assets/64122ee76a80204e429f0917_startuper-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://cointemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Coin Portfolio Project - Design Vertices" src="assets/64122eea26088192a42f4de8_coin-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://dataplustemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Dataplus Portfolio Project - Design Vertices" src="assets/641a62fdb8c4023f3a19a061_dataplus-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://rockettemplate.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Rocket Portfolio Project - Design Vertices" src="assets/64122eead5f1ad6e90e6b908_rocket-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://blockchaintemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Blockchain Portfolio Project - Design Vertices" src="assets/64122ee86da95df2f75efbae_blockchain-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://startuxtemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Startux Portfolio Project - Design Vertices" src="assets/641a62fc3ed759860d3dc6b4_startux-portfolio-project-brix-agency.jpg" /></a>
-                            </div>
-                            <div class="marquee">
-                                <a data-fancybox="gallery" href="https://spatemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Spa Portfolio Project - Design Vertices" src="assets/64122ee74b9aaa8125708ce3_spa-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://creativetemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Graphik Portfolio Project - Design Vertices" src="assets/641a62fca68930c604700abe_graphik-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://darkwebtemplate.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Darkweb Portfolio Project - Design Vertices" src="assets/64122eeadf735872903dac2b_darkweb-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://commercetemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Commerce Portfolio Project - Design Vertices" src="assets/641a62fdc04bba82b78cc22e_commerce-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://startupxtemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Startuper Portfolio Project - Design Vertices" src="assets/64122ee76a80204e429f0917_startuper-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://cointemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Coin Portfolio Project - Design Vertices" src="assets/64122eea26088192a42f4de8_coin-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://dataplustemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Dataplus Portfolio Project - Design Vertices" src="assets/641a62fdb8c4023f3a19a061_dataplus-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://rockettemplate.webflow.io/primary-home"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Rocket Portfolio Project - Design Vertices" src="assets/64122eead5f1ad6e90e6b908_rocket-portfolio-project-brix-agency.png" /></a>
-                                <a data-fancybox="gallery" href="https://blockchaintemplate.webflow.io/"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Blockchain Portfolio Project - Design Vertices" src="assets/64122ee86da95df2f75efbae_blockchain-portfolio-project-brix-agency.jpg" /></a>
-                                <a data-fancybox="gallery" href="https://startuxtemplate.webflow.io/home-pages/home-v1"
-                                    target="_blank" class="project-item project-item-link w-inline-block">
-                                    <div class="project-item-btn-wrapper">
-                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                    </div><img alt="Startux Portfolio Project - Design Vertices" src="assets/641a62fc3ed759860d3dc6b4_startux-portfolio-project-brix-agency.jpg" /></a>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
 
                 <div class="package-item mobile">
@@ -515,6 +304,16 @@
                                 <?php } ?>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="package-item brand">
+                    <div class="w-layout-grid features-grid four-columns">
+                        <?php for ($i=1; $i <= 10; $i++) { ?>
+                            <div class="card">
+                                <img src="assets/brand-portfolio/b<?php echo $i?>" alt="brand portfolio">
+                            </div>
+                        <?php } ?>
                     </div>
                 </div>
 
