@@ -159,7 +159,7 @@
             <div class="container-default w-container">
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee82" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="inner-container _620px center text-center mg-bottom-40px">
-                    <h2 class="subtitle">SaaS Design Agency</h2>
+                    <h2 class="subtitle">Web Design Agency</h2>
                     <p class="heading-size-h2">At Design Vertices we are experts in the SaaS industry</p>
                     <p>Read some of the reasons why Design Vertices can help your SaaS or tech company design a high-performing website.</p>
                 </div>
@@ -459,7 +459,7 @@
                 </div>
             </div>
             <div class="container-default w-container">
-                <div data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063788" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                <div data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063788" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="button-row center"><a data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063789" href="contact" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a>
                     <a
                         href="portfolio" data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a06378d" class="button-secondary w-button">Browse our portfolio <span class="line-rounded-icons button-icon"></span></a>
@@ -471,7 +471,7 @@
         <!-- Pricing -->
         <div class="section marquee-section" style="padding-top: 100px;padding-bottom: 100px;">
             <div class="container-default w-container">
-                <div data-w-id="de0df7a3-5932-c7e7-581d-f427c31e20c9" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                <div data-w-id="de0df7a3-5932-c7e7-581d-f427c31e20c9" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="inner-container _712px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Packages</h2>
                     <p class="heading-size-h2">Pocket Friendly Pricing</p>
@@ -488,7 +488,7 @@
             </div>
 
             <div class="container-default w-container">
-                <div data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063788" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                <div data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063788" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="button-row center"><a data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063789" href="contact" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a>
                     <a
                         href="pricing" data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a06378d" class="button-secondary w-button">Checkout our pricing <span class="line-rounded-icons button-icon"><img src="assets/pricing-icon.png"></span></a>
