@@ -28048,6 +28048,10 @@ figcaption {
     box-shadow: 0 6px 20px 0 #14142b91;
 }
 
+.portfolio-section .package-item:hover {
+    box-shadow: 0 !important;
+}
+
 .package-selector {
     padding: 18px 24px 16px !important;
     font-size: 16px !important;
