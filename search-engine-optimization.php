@@ -220,10 +220,6 @@
         <?php require_once('layout/testimonials.php'); ?>
         <!-- Testimonials -->
 
-        <!-- CTA -->
-        <?php require_once('layout/cta.php'); ?>
-        <!-- CTA -->
-
         <!-- Pricing -->
         <div class="section marquee-section" style="padding-top: 100px;padding-bottom: 100px;">
             <div class="container-default w-container">
