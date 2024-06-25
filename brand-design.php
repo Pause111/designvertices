@@ -130,7 +130,7 @@
                                 <h3 class="horizontal-item-heading">Brand Design Development Agency</h3>
                                 <p class="horizontal-item-text">Our brands are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS app Development Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS Brand Development Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
@@ -142,17 +142,17 @@
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">CMS App Agency</h3>
-                                <p class="horizontal-item-text">We help your company to build brands on any CMS platforms like Webflow, Wordpress or Shopify to increase app performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
+                                <h3 class="horizontal-item-heading">CMS Brand Agency</h3>
+                                <p class="horizontal-item-text">We help your company to build brands on any CMS platforms like Webflow, Wordpress or Shopify to increase Brand performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS app Migration Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS Brand Migration Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">App Automation Agency</h3>
-                                <p class="horizontal-item-text">Your app should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
+                                <p class="horizontal-item-text">Your Brand should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS app Automation Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS Brand Automation Agency" class="horizontal-item-image" /></div>
                         </div>
                     </div>
                 </div>
@@ -167,65 +167,7 @@
                     <p class="heading-size-h2">At Design Vertices we are experts in the Design industry</p>
                     <p>Read some of the reasons why Design Vertices can help your company design a high-performing website.</p>
                 </div>
-                <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee89" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                    class="w-layout-grid features-grid two-columns">
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee8a-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b025b0d811b7212368b_saas-web-design-experts.png" loading="lazy" alt="SaaS Brand Design Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Experts in CMS ecosystem</p>
-                            <p class="features-grid-text">We have worked with 25+ CMS &amp; B2B CMS companies just in the past year alone, so we have a lot of experience in the industry.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee92-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b016f931a006d07c153_saas-design-experts.png" loading="lazy" alt="SaaS Design Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Premium design</p>
-                            <p class="features-grid-text">We create amazing Brand Designs that will not just look awesome, but also are highly optimized for increasing conversions.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee9a-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Best app development standards</p>
-                            <p class="features-grid-text">We build brands following the best app development standards of 2024, so your app will have top-notch performance.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b02e8e4a86b39c7bc36_saas-website-experts.png" loading="lazy" alt="SaaS app Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Easy to management and scale</p>
-                            <p class="features-grid-text">Our brands are built only on cutting-edge CMS platforms that are focused on easy app management and long-term escalation.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeaa-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b054736b0408b0f03b6_saas-speed-optimization-experts.png" loading="lazy" alt="SaaS Speed Optimization Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Speed optimization</p>
-                            <p class="features-grid-text">Never lose a lead due to poor app speed. We do in-depth optimization to help your SaaS app load lightning-fast.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeb2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0257c6aa046581768c_saas-website-seo-optimization-experts.png" loading="lazy" alt="SaaS app SEO Optimization Experts" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">On-page SEO optimization</p>
-                            <p class="features-grid-text">All our client brands are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeba-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0121cddc743b29d4b1_saas-website-consultants.png" loading="lazy" alt="SaaS app Consultants" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Easy and simple process</p>
-                            <p class="features-grid-text">Our team of experts takes you hand-by-hand on the app process from idea, to design, to development and launch.</p>
-                        </div>
-                    </div>
-                    <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeec2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b028579953a0499973a_saas-website-maintenance.png" loading="lazy" alt="SaaS app Maintenance" class="feature-icon-image" /></div>
-                        <div>
-                            <p class="features-grid-heading">Long-term support and help</p>
-                            <p class="features-grid-text">Once the project is completed, our team is always available to assist your company with future app updates.</p>
-                        </div>
-                    </div>
-                </div>
+                <div data-w-id="d575aeeb-6ae1-db1c-b9d9-bf68a5beab71" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="w-layout-grid features-grid two-columns"><div id="w-node-d575aeeb-6ae1-db1c-b9d9-bf68a5beab72-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ef621cddc023b290977_saas-ui-ux-design.png" loading="lazy" alt="SaaS UI UX Design" class="feature-icon-image"></div><div><p class="features-grid-heading">User-centered design</p><p class="features-grid-text">Our team focus is to design a user-centered, highly intuitive web and mobile app for your SaaS or B2B SaaS company.</p></div></div><div id="w-node-_63ea6f88-6186-f8de-682f-a47ea874ffa1-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077f10e8e4a8153fc701df_saas-ux-design-experts.png" loading="lazy" alt="SaaS UX Design Experts" class="feature-icon-image"></div><div><p class="features-grid-heading">Top quality design</p><p class="features-grid-text">Design can be a core business differentiator and competitive advantage, so we always pay special attention to all of the small details.</p></div></div><div id="w-node-_9922cf74-d2f6-2561-6ded-70c3bcee6ca6-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec52862b1765eb880da_saas-multi-platform-ui-ux-design.png" loading="lazy" alt="SaaS Multi Platform UI UX Design" class="feature-icon-image"></div><div><p class="features-grid-heading">Multiple platforms and devices</p><p class="features-grid-text">We are experienced in design for multiple platforms including Web, iOS, Android, watchOS, macOS, and more.</p></div></div><div id="w-node-b088d183-7bb1-ea29-58ed-17b4c73b6643-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec54607440a664c2a4e_saas-ux-funnel.png" loading="lazy" alt="SaaS UX Funnel" class="feature-icon-image"></div><div><p class="features-grid-heading">Marketing focused</p><p class="features-grid-text">We pay special attention to the design of the registration and checkout funnels, so your conversion rates are as high as possible.</p></div></div><div id="w-node-f72405e8-9f89-d9e6-cfd2-37527193f182-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5a25b664a876fc9a8_saas-ui-ux-accessibility-experts.png" loading="lazy" alt="SaaS UI UX Accessibility Experts" class="feature-icon-image"></div><div><p class="features-grid-heading">WCAG 2.1 accessibility guidelines</p><p class="features-grid-text">All our designs follow the WCAG 2.1 guidelines to make your app accessible to users with a variety of disabilities.</p></div></div><div id="w-node-_21c3765e-2cdf-1a02-9326-9e1aa78677fa-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5c9b229ebbdbbcec5_saas-ui-ux-design-process.png" loading="lazy" alt="SaaS UI UX Design Process" class="feature-icon-image"></div><div><p class="features-grid-heading">Easy and simple design process</p><p class="features-grid-text">With our smooth UI/UX design process, you will get you won’t need to worry about anything, as we will take you hand by hand along all the way.</p></div></div><div id="w-node-_5b5c6d00-de96-edfd-a491-87db1e3b4ada-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5790e8110c6c73e9c_saas-ui-ux-design-source-files.png" loading="lazy" alt="SaaS UI UX Design Source Files" class="feature-icon-image"></div><div><p class="features-grid-heading">Design source files</p><p class="features-grid-text">Once the project is finished, we share with you the design source files, so your team can edit and create new designs in the future.</p></div></div><div id="w-node-c9ff77ba-42f1-e378-55a4-331686ccf666-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec55c49a6c0ca3a7b61_saas-ui-ux-design-maintenance.png" loading="lazy" alt="SaaS UI UX Design Maintenance" class="feature-icon-image"></div><div><p class="features-grid-heading">Long-term support</p><p class="features-grid-text">After the initial project is completed, we are always available to assist you and your team with future design requests or updates.</p></div></div></div>
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deeeca" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="button-row center single-button"><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deeecb" href="contact" target="_blank" class="button-primary w-button">Get in touch<span class="line-rounded-icons button-icon"></span></a></div>
             </div>
@@ -330,7 +272,7 @@
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
                                 <p>Every Brand Design agency has their own prices, however, due to the popularity of the industry, there is a big demand for agencies with experience in the tech and software industry.</p>
-                                <p>Considering the data from a few agencies we researched, a <strong>full app with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
+                                <p>Considering the data from a few agencies we researched, a <strong>full Brand with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
                                     side, you are working with a freelancer, you can expect an hourly rate in the range of <strong>$75 - $150 USD</strong>.</p>
                             </div>
                         </div>
@@ -344,7 +286,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Just like houses, the time for building a app depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page app with complex features and
+                                <p>Just like houses, the time for building a Brand depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page Brand with complex features and
                                     functionalities.</p>
                                 <p>However, based on the average project requests we receive, if we consider a <strong>10-page website</strong>, you should expect it to take <strong>in the range of 6-8 weeks</strong>.</p>
                                 <p>If you are interested in getting a detailed timeline and proposal for your project, please feel free to <a href="contact"
@@ -361,7 +303,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Unlike the old days, now a days most brands are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a app is low</strong>.</p>
+                                <p>Unlike the old days, now a days most brands are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a Brand is low</strong>.</p>
                                 <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
                             </div>
                         </div>
