@@ -44,8 +44,9 @@
                 <img class="globe-img" src="assets/smm-service.jpg" alt="" style="
                     position: absolute;
                     z-index: 1;
-                    right: 2%;
-                    top: 15%;
+                    right: 9%;
+                    top: 25%;
+                    height: 50%;
                 ">
                 <div class="project-hero-wrapper">
                     <h1 data-w-id="7425446c-08f6-465b-0ad4-2eb789deedcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
