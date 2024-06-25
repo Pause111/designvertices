@@ -34,13 +34,13 @@
                 </div>
             </div>
 
-            <div data-w-id="c442fe62-5434-7bdd-6b91-6aea6691c370" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="project-images mg-bottom-64px">
+            <div data-w-id="c442fe62-5434-7bdd-6b91-6aea6691c370" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="project-images">
                 
                 <ul class="package-selectors">
                     <li><a href="" class="button-primary package-selector active" data-package="web">Web Design</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="mobile">Mobile Apps</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="branding">Branding</a></li>
-                    <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li>
+                    <!-- <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li> -->
                 </ul>
 
                 <div class="package-item web active">
@@ -96,11 +96,7 @@
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                     </div><img alt="Corporation Portfolio Project - Design Vertices" src="assets/641a5f720ec6dba6af37bdc6_corporation-portfolio-project-brix-agency.jpg" /></a>
-                            </div>
-                        </div>
-                        <div class="second-row">
-                            <div class="w-layout-grid features-grid four-columns">
-                                <a data-fancybox="gallery" href="https://pixelittemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
+                                    <a data-fancybox="gallery" href="https://pixelittemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                     </div><img alt="Pixelit Portfolio Project - Design Vertices" src="assets/641a5f723597378a1d5b952d_pixelit-portfolio-project-brix-agency.jpg" /></a>
@@ -172,12 +168,19 @@
                 </div>
 
                 <div class="package-item branding">
-                    <div class="w-layout-grid features-grid four-columns">
-                        <?php for ($i=1; $i <= 8; $i++) { ?>
-                            <a data-fancybox="gallery" href="" class="cportfolio-item">
-                                <img style="height:100%" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
-                            </a>
-                        <?php } ?>
+                    <div class="project-images-wrapper first-row">
+                        <div class="first-row">
+                            <div class="w-layout-grid features-grid four-columns">
+                                <?php for ($i=1; $i <= 8; $i++) { ?>
+                                    <a data-fancybox="gallery" href="" target="_blank" class="project-item project-item-link w-inline-block">
+                                        <div class="project-item-btn-wrapper">
+                                            <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                        </div>
+                                        <img src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
+                                    </a>
+                                <?php } ?>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
