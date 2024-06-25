@@ -167,7 +167,90 @@
                     <p class="heading-size-h2">At Design Vertices we are experts in the Design industry</p>
                     <p>Read some of the reasons why Design Vertices can help your company design a high-performing website.</p>
                 </div>
-                <div data-w-id="d575aeeb-6ae1-db1c-b9d9-bf68a5beab71" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="w-layout-grid features-grid two-columns"><div id="w-node-d575aeeb-6ae1-db1c-b9d9-bf68a5beab72-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ef621cddc023b290977_saas-ui-ux-design.png" loading="lazy" alt="SaaS UI UX Design" class="feature-icon-image"></div><div><p class="features-grid-heading">User-centered design</p><p class="features-grid-text">Our team focus is to design a user-centered, highly intuitive web and mobile app for your SaaS or B2B SaaS company.</p></div></div><div id="w-node-_63ea6f88-6186-f8de-682f-a47ea874ffa1-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077f10e8e4a8153fc701df_saas-ux-design-experts.png" loading="lazy" alt="SaaS UX Design Experts" class="feature-icon-image"></div><div><p class="features-grid-heading">Top quality design</p><p class="features-grid-text">Design can be a core business differentiator and competitive advantage, so we always pay special attention to all of the small details.</p></div></div><div id="w-node-_9922cf74-d2f6-2561-6ded-70c3bcee6ca6-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec52862b1765eb880da_saas-multi-platform-ui-ux-design.png" loading="lazy" alt="SaaS Multi Platform UI UX Design" class="feature-icon-image"></div><div><p class="features-grid-heading">Multiple platforms and devices</p><p class="features-grid-text">We are experienced in design for multiple platforms including Web, iOS, Android, watchOS, macOS, and more.</p></div></div><div id="w-node-b088d183-7bb1-ea29-58ed-17b4c73b6643-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec54607440a664c2a4e_saas-ux-funnel.png" loading="lazy" alt="SaaS UX Funnel" class="feature-icon-image"></div><div><p class="features-grid-heading">Marketing focused</p><p class="features-grid-text">We pay special attention to the design of the registration and checkout funnels, so your conversion rates are as high as possible.</p></div></div><div id="w-node-f72405e8-9f89-d9e6-cfd2-37527193f182-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5a25b664a876fc9a8_saas-ui-ux-accessibility-experts.png" loading="lazy" alt="SaaS UI UX Accessibility Experts" class="feature-icon-image"></div><div><p class="features-grid-heading">WCAG 2.1 accessibility guidelines</p><p class="features-grid-text">All our designs follow the WCAG 2.1 guidelines to make your app accessible to users with a variety of disabilities.</p></div></div><div id="w-node-_21c3765e-2cdf-1a02-9326-9e1aa78677fa-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5c9b229ebbdbbcec5_saas-ui-ux-design-process.png" loading="lazy" alt="SaaS UI UX Design Process" class="feature-icon-image"></div><div><p class="features-grid-heading">Easy and simple design process</p><p class="features-grid-text">With our smooth UI/UX design process, you will get you won’t need to worry about anything, as we will take you hand by hand along all the way.</p></div></div><div id="w-node-_5b5c6d00-de96-edfd-a491-87db1e3b4ada-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec5790e8110c6c73e9c_saas-ui-ux-design-source-files.png" loading="lazy" alt="SaaS UI UX Design Source Files" class="feature-icon-image"></div><div><p class="features-grid-heading">Design source files</p><p class="features-grid-text">Once the project is finished, we share with you the design source files, so your team can edit and create new designs in the future.</p></div></div><div id="w-node-c9ff77ba-42f1-e378-55a4-331686ccf666-c78fd74c" class="card features-grid-card horizontal-card"><div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="https://cdn.prod.website-files.com/63f8ca18cae25871c18fd72d/64077ec55c49a6c0ca3a7b61_saas-ui-ux-design-maintenance.png" loading="lazy" alt="SaaS UI UX Design Maintenance" class="feature-icon-image"></div><div><p class="features-grid-heading">Long-term support</p><p class="features-grid-text">After the initial project is completed, we are always available to assist you and your team with future design requests or updates.</p></div></div></div>
+                <div data-w-id="d575aeeb-6ae1-db1c-b9d9-bf68a5beab71"
+                    style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                    class="w-layout-grid features-grid two-columns">
+                    <div id="w-node-d575aeeb-6ae1-db1c-b9d9-bf68a5beab72-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ef621cddc023b290977_saas-ui-ux-design.png"
+                                loading="lazy" alt="SaaS UI UX Design" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">User-centered design</p>
+                            <p class="features-grid-text">Our team focus is to design a user-centered, highly intuitive web and mobile
+                                app for your SaaS or B2B SaaS company.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-_63ea6f88-6186-f8de-682f-a47ea874ffa1-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077f10e8e4a8153fc701df_saas-ux-design-experts.png"
+                                loading="lazy" alt="SaaS UX Design Experts" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Top quality design</p>
+                            <p class="features-grid-text">Design can be a core business differentiator and competitive advantage, so we
+                                always pay special attention to all of the small details.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-_9922cf74-d2f6-2561-6ded-70c3bcee6ca6-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec52862b1765eb880da_saas-multi-platform-ui-ux-design.png"
+                                loading="lazy" alt="SaaS Multi Platform UI UX Design" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Multiple platforms and devices</p>
+                            <p class="features-grid-text">We are experienced in design for multiple platforms including Web, iOS,
+                                Android, watchOS, macOS, and more.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-b088d183-7bb1-ea29-58ed-17b4c73b6643-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec54607440a664c2a4e_saas-ux-funnel.png"
+                                loading="lazy" alt="SaaS UX Funnel" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Marketing focused</p>
+                            <p class="features-grid-text">We pay special attention to the design of the registration and checkout
+                                funnels, so your conversion rates are as high as possible.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-f72405e8-9f89-d9e6-cfd2-37527193f182-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec5a25b664a876fc9a8_saas-ui-ux-accessibility-experts.png"
+                                loading="lazy" alt="SaaS UI UX Accessibility Experts" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">WCAG 2.1 accessibility guidelines</p>
+                            <p class="features-grid-text">All our designs follow the WCAG 2.1 guidelines to make your app accessible to
+                                users with a variety of disabilities.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-_21c3765e-2cdf-1a02-9326-9e1aa78677fa-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec5c9b229ebbdbbcec5_saas-ui-ux-design-process.png"
+                                loading="lazy" alt="SaaS UI UX Design Process" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Easy and simple design process</p>
+                            <p class="features-grid-text">With our smooth UI/UX design process, you will get you won’t need to worry
+                                about anything, as we will take you hand by hand along all the way.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-_5b5c6d00-de96-edfd-a491-87db1e3b4ada-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec5790e8110c6c73e9c_saas-ui-ux-design-source-files.png"
+                                loading="lazy" alt="SaaS UI UX Design Source Files" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Design source files</p>
+                            <p class="features-grid-text">Once the project is finished, we share with you the design source files, so
+                                your team can edit and create new designs in the future.</p>
+                        </div>
+                    </div>
+                    <div id="w-node-c9ff77ba-42f1-e378-55a4-331686ccf666-c78fd74c" class="card features-grid-card horizontal-card">
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img
+                                src="assets/64077ec55c49a6c0ca3a7b61_saas-ui-ux-design-maintenance.png"
+                                loading="lazy" alt="SaaS UI UX Design Maintenance" class="feature-icon-image"></div>
+                        <div>
+                            <p class="features-grid-heading">Long-term support</p>
+                            <p class="features-grid-text">After the initial project is completed, we are always available to assist you
+                                and your team with future design requests or updates.</p>
+                        </div>
+                    </div>
+                </div>
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deeeca" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="button-row center single-button"><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deeecb" href="contact" target="_blank" class="button-primary w-button">Get in touch<span class="line-rounded-icons button-icon"></span></a></div>
             </div>
