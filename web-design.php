@@ -3,7 +3,7 @@
 <html data-wf-page="63f8ca18cae258222f8fd74b">
 
 <head>
-    <meta charset="utf-8" />
+    <?php require_once('layout/head.php'); ?>
     <title>The #1 website design agency | Design Vertices</title>
     <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"
     />
@@ -161,7 +161,7 @@
                     class="inner-container _620px center text-center mg-bottom-40px">
                     <h2 class="subtitle">SaaS Design Agency</h2>
                     <p class="heading-size-h2">At Design Vertices we are experts in the SaaS industry</p>
-                    <p>Read some of the reasons why BRIX can help your SaaS or tech company design a high-performing website.</p>
+                    <p>Read some of the reasons why Design Vertices can help your SaaS or tech company design a high-performing website.</p>
                 </div>
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee89" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="w-layout-grid features-grid two-columns">
@@ -505,7 +505,7 @@
                     <div class="text-center mg-bottom-40px">
                         <p class="subtitle">Frequently Asked Questions</p>
                         <h2>SaaS Website Design Agency FAQs</h2>
-                        <p>If you have any question about our SaaS Website Design Agency, it is probably here. If not, please feel free to <a href="https://brixagency.com/contact?utm_source=BRIX%20Agency&amp;utm_medium=Website&amp;utm_campaign=SaaS%20Design%20Agency"
+                        <p>If you have any question about our SaaS Website Design Agency, it is probably here. If not, please feel free to <a href="contact"
                                 target="_blank" class="text-link">get in touch</a>.</p>
                     </div>
                 </div>
@@ -538,7 +538,7 @@
                                 <p>Just like houses, the time for building a SaaS website depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page website with complex features and
                                     functionalities.</p>
                                 <p>However, based on the average project requests we receive, if we consider a <strong>10-page SaaS website</strong>, you should expect it to take <strong>in the range of 6-8 weeks</strong>.</p>
-                                <p>If you are interested in getting a detailed timeline and proposal for your SaaS project, please feel free to <a href="https://brixagency.com/contact?utm_source=BRIX%20Agency&amp;utm_medium=Website&amp;utm_campaign=SaaS%20Design%20Agency"
+                                <p>If you are interested in getting a detailed timeline and proposal for your SaaS project, please feel free to <a href="contact"
                                         target="_blank">get in touch with our team</a> for a discovery call.</p>
                             </div>
                         </div>
@@ -559,7 +559,7 @@
                     </div>
                 </div>
                 <div data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4adcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                    class="button-row center single-button"><a data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4add0" href="https://brixagency.com/contact?utm_source=BRIX%20Agency&amp;utm_medium=Website&amp;utm_campaign=SaaS%20Design%20Agency" target="_blank" class="button-primary w-button">Get in touch with our SaaS agency <span class="line-rounded-icons button-icon"></span></a></div>
+                    class="button-row center single-button"><a data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4add0" href="contact" target="_blank" class="button-primary w-button">Get in touch with our SaaS agency <span class="line-rounded-icons button-icon"></span></a></div>
             </div>
         </section>
 
