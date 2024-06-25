@@ -28048,7 +28048,8 @@ figcaption {
     box-shadow: 0 6px 20px 0 #14142b91;
 }
 
-.portfolio-section .package-item:hover {
+.portfolio-section .package-item:hover,
+.mobile-portfolio .package-item:hover {
     box-shadow: unset !important;
 }
 

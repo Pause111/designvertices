@@ -17,6 +17,10 @@
         .projects-hero-images {
             transform: unset !important;
         }
+
+        .package-item {
+            display: flex !important;
+        }
     </style>
 </head>
 
@@ -240,7 +244,7 @@
         <!-- CTA -->
 
         <!-- Portfolio -->
-        <div class="section marquee-section bg-neutral-200" style="padding-top: 100px;padding-bottom: 100px;">
+        <div class="mobile-portfolio section marquee-section bg-neutral-200" style="padding-top: 100px;padding-bottom: 100px;">
             <div class="container-default w-container">
                 <div data-w-id="de0df7a3-5932-c7e7-581d-f427c31e20c9" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="inner-container _712px center text-center mg-bottom-40px">
