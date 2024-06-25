@@ -190,6 +190,10 @@
         </div>
         </div>
 
+        <!-- CTA -->
+        <?php require_once('layout/cta.php'); ?>
+        <!-- CTA -->
+
         <div id="services" data-w-id="f85aa83e-c8ee-d138-278d-2586fc74a393" class="section bg-neutral-200 horizontal-section" style="padding-top:100px;padding-bottom:100px;">
             <div class="horizontal-camera">
                 <div class="container-default w-container">
@@ -230,10 +234,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- CTA -->
-        <?php require_once('layout/cta.php'); ?>
-        <!-- CTA -->
 
         <!-- Footer -->
         <?php require_once('layout/footer.php'); ?>
