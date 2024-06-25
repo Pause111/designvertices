@@ -4,13 +4,13 @@
 
 <head>
     <?php require_once('layout/head.php'); ?>
-    <title>The #1 website design agency | Design Vertices</title>
-    <meta content="Looking to design an amazing website for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
-    <meta content="The #1 SaaS website design agency | Design Vertices" property="og:title" />
-    <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
+    <title>The #1 mobile app design agency | Design Vertices</title>
+    <meta content="Looking to design an amazing mobile app for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
+    <meta content="The #1 SaaS mobile app design agency | Design Vertices" property="og:title" />
+    <meta content="Looking to design an amazing mobile app for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
     <meta content="" property="og:image" />
-    <meta content="The #1 SaaS website design agency | Design Vertices" property="twitter:title" />
-    <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="twitter:description" />
+    <meta content="The #1 SaaS mobile app design agency | Design Vertices" property="twitter:title" />
+    <meta content="Looking to design an amazing mobile app for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="twitter:description" />
     <meta content="" property="twitter:image" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
@@ -33,11 +33,11 @@
             <div class="container-default w-container">
                 <div class="project-hero-wrapper">
                     <h1 data-w-id="7425446c-08f6-465b-0ad4-2eb789deedcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                        class="subtitle">Website Design Agency</h1>
+                        class="subtitle">Mobile Apps Design Agency</h1>
                     <p data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd1" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                        class="heading-size-h1">Ready to take your website to the next level?</p>
+                        class="heading-size-h1">Ready to take your app to the next level?</p>
                     <p data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd3" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                        class="mg-bottom-32px">Design Vertices is the design agency your company is looking for. We help people and tech startups design premium, perfectly responsive, lightning-fast, and conversion optimized websites.</p>
+                        class="mg-bottom-32px">Design Vertices is the design agency your company is looking for. We help people and tech startups design premium, perfectly responsive, lightning-fast, and conversion optimized mobile apps.</p>
                     <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd5"
                         style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                         class="button-row"><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd6" href="contact" target="_blank" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
