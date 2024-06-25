@@ -19,24 +19,17 @@
                                     <div class="dropdown-list-wrapper">
                                         <div class="w-layout-grid dropdown-list-grid">
                                             <a href="#!" class="megamenu-link-wrapper hover-red w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762dafb03ab566823efba_web-design-services.png" alt="Web Design Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762dafb03ab566823efba_web-design-services.png" alt="Web Design/Development Services" /></div>
                                                 <div class="megamenu-link-content">
-                                                    <div class="text-100 bold mg-bottom-8px">Web Design</div>
-                                                    <div class="text-100 color-neutral-600">High-converting website design</div>
+                                                    <div class="text-100 bold mg-bottom-8px">Web Design / Development</div>
+                                                    <div class="text-100 color-neutral-600">High-converting websites</div>
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-yellow w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f07c8cb2bc407099ca_ui-ux-design-services.png" alt="UI/UX Design Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f07c8cb2bc407099ca_ui-ux-design-services.png" alt="Mobile Apps Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Mobile Apps</div>
                                                     <div class="text-100 color-neutral-600">Intuitive mobile apps</div>
-                                                </div>
-                                            </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db08d7a6d73597a298_web-development-services.png" alt="Web Development Services" /></div>
-                                                <div class="megamenu-link-content">
-                                                    <div class="text-100 bold mg-bottom-8px">Web Development</div>
-                                                    <div class="text-100 color-neutral-600">Pixel-perfect web development</div>
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-green w-inline-block">
@@ -47,17 +40,24 @@
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-purple w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db378afb58feb7e6bf_conversion-optimization-services.png" alt="Conversion Optimization Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db378afb58feb7e6bf_conversion-optimization-services.png" alt="SEO Services" /></div>
                                                 <div class="megamenu-link-content">
-                                                    <div class="text-100 bold mg-bottom-8px">Conversion Optimization</div>
+                                                    <div class="text-100 bold mg-bottom-8px">SEO</div>
                                                     <div class="text-100 color-neutral-600">Next-level website performance</div>
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b94dcb04e9e1171c59c1_automation-services.png" alt="Automation Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/earth-1.png" alt="SMM Services" /></div>
                                                 <div class="megamenu-link-content">
-                                                    <div class="text-100 bold mg-bottom-8px">Automation</div>
-                                                    <div class="text-100 color-neutral-600">Save time with smart automation</div>
+                                                    <div class="text-100 bold mg-bottom-8px">SMM</div>
+                                                    <div class="text-100 color-neutral-600">High ranked social media marketing</div>
+                                                </div>
+                                            </a>
+                                            <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
+                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/video-icon-header.webp" alt="video animation Services" /></div>
+                                                <div class="megamenu-link-content">
+                                                    <div class="text-100 bold mg-bottom-8px">Video Animation</div>
+                                                    <div class="text-100 color-neutral-600">Pixel-perfect video animation</div>
                                                 </div>
                                             </a>
                                         </div>
