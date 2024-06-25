@@ -47,58 +47,6 @@
                         class="button-row"><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd6" href="contact" target="_blank" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                 </div>
             </div>
-            <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deedda" style="opacity:0" class="projects-hero-images">
-                <div class="project-hero-images-wrapper">
-                    <div class="projects-hero-marquee first">
-                        <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Storj Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b2.webp" alt="Techflow Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b3.webp" alt="UpLead Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b4.webp" alt="Darktech Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b5.webp" alt="Upside Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b6.webp" alt="StarUp Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b7.webp" alt="Yesware Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b8.webp" alt="Darkweb Project - SaaS SEO Agency" /></div>
-                        </div>
-                        <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Storj Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b2.webp" alt="Techflow Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b3.webp" alt="UpLead Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b4.webp" alt="Darktech Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b5.webp" alt="Upside Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b6.webp" alt="StarUp Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b7.webp" alt="Yesware Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b8.webp" alt="Darkweb Project - SaaS SEO Agency" /></div>
-                        </div>
-                    </div>
-                    <div class="projects-hero-marquee second">
-                        <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Darkbit Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS SEO Agency" /></div>
-                        </div>
-                        <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Darkbit Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS SEO Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS SEO Agency" /></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="project-hero-top-gradient"></div>
             <div class="project-hero-bottom-gradient"></div>
             <div class="isometric-grid-bg"></div>
@@ -142,14 +90,14 @@
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">CMS Brand Agency</h3>
+                                <h3 class="horizontal-item-heading">CMS SEO Agency</h3>
                                 <p class="horizontal-item-text">We help your company to build brands on any CMS platforms like Webflow, Wordpress or Shopify to increase Brand performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS Brand Migration Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">App Automation Agency</h3>
+                                <h3 class="horizontal-item-heading">SEO Automation Agency</h3>
                                 <p class="horizontal-item-text">Your Brand should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS Brand Automation Agency" class="horizontal-item-image" /></div>
