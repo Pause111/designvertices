@@ -5,8 +5,7 @@
 <head>
     <?php require_once('layout/head.php'); ?>
     <title>The #1 website design agency | Design Vertices</title>
-    <meta content="Looking to design an amazing website for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"
-    />
+    <meta content="Looking to design an amazing website for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
     <meta content="The #1 SaaS website design agency | Design Vertices" property="og:title" />
     <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
     <meta content="" property="og:image" />
@@ -14,6 +13,11 @@
     <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="twitter:description" />
     <meta content="" property="twitter:image" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .projects-hero-images {
+            transform: unset !important;
+        }
+    </style>
 </head>
 
 <body>
