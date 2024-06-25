@@ -84,21 +84,23 @@
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Web Design</h3>
-                                <p class="horizontal-item-text">We make websites that look amazing, convey the right brand message and are highly oriented for conversion.</p><a data-w-id="9b2430ec-f749-4843-8b3d-24d15879fbb1" href="#!#web-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">We make websites that look amazing, convey the right brand message and are highly oriented for conversion.</p>
+                                <a data-w-id="9b2430ec-f749-4843-8b3d-24d15879fbb1" href="web-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
-                                class="horizontal-item-image-wrapper bg-light-red"><img src="assets/64062922a09751a1098ce054_web-design-agency.png" loading="eager" alt="Web Design Agency" class="horizontal-item-image" /></div>
+                                class="horizontal-item-image-wrapper bg-light-red">
+                                <img src="assets/64062922a09751a1098ce054_web-design-agency.png" loading="eager" alt="Web Design Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Mobile Apps</h3>
-                                <p class="horizontal-item-text">We make intuitive mobile apps focused on driving user engagement and increasing users retention.</p><a data-w-id="0f767243-7589-3c42-97b8-98656a6715c7" href="#!#ui-ux-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">We make intuitive mobile apps focused on driving user engagement and increasing users retention.</p><a data-w-id="0f767243-7589-3c42-97b8-98656a6715c7" href="mobile-apps" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-yellow"><img src="assets/6414ba53ec407864f180cfe0_ui-ux-design-agency.png" loading="eager" alt="UI/UX Design Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Brand Design</h3>
-                                <p class="horizontal-item-text">We transform businesses into world-class brands by going through a well thought brand identity design process.</p><a data-w-id="f21e61bb-81d1-df41-606c-efa393909df2" href="#!#brand-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">We transform businesses into world-class brands by going through a well thought brand identity design process.</p><a data-w-id="f21e61bb-81d1-df41-606c-efa393909df2" href="brand-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-green"><img src="assets/64062930acab8e66b2e103de_brand-design-agency.png" loading="eager" alt="Brand Design Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -106,21 +108,21 @@
                             <div class="horizontal-item-content">
                                 <p class="subtitle">SEO</p>
                                 <h3 class="horizontal-item-heading">Conversion Optimization</h3>
-                                <p class="horizontal-item-text">We help you A/B test your website core landing pages to boost your conversion rates and get more leads.</p><a data-w-id="132deaa6-cec6-eb18-6f1d-09a5716fdcd3" href="#!#conversion-optimization" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">We help you A/B test your website core landing pages to boost your conversion rates and get more leads.</p><a data-w-id="132deaa6-cec6-eb18-6f1d-09a5716fdcd3" href="search-engine-optimization" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper bg-light-purple"><img src="assets/6414a9110b22bf8cbfe6a1dc_conversion-optimization-agency.png" loading="eager" alt="Conversion Optimization Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Social Media Marketing</h3>
-                                <p class="horizontal-item-text">Elevate your online presence with our expert social media marketing strategies! 🚀</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="#!#web-development" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Elevate your online presence with our expert social media marketing strategies! 🚀</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="social-media-marketing" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper bg-light-blue" style="background-color:#ffefe7;"><img src="assets/smm-service.jpg" loading="eager" alt="SMM Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Video Animation</h3>
-                                <p class="horizontal-item-text">We help your business gain leverage and efficiency through automation using simple, yet powerful NoCode tools.</p><a data-w-id="25e52700-82e0-3151-2276-69b78ac6d75c" href="#!#automation" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">We help your business gain leverage and efficiency through automation using simple, yet powerful NoCode tools.</p><a data-w-id="25e52700-82e0-3151-2276-69b78ac6d75c" href="video-animation" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/video-service.png" loading="eager" alt="Video Animation Agency" class="horizontal-item-image" /></div>
                         </div>
