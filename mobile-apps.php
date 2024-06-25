@@ -297,8 +297,6 @@
             <div class="container-default w-container">
                 <div data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063788" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="button-row center"><a data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a063789" href="contact" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a>
-                    <a
-                        href="pricing" data-w-id="24d9fe04-adf9-f5a8-74b6-f8f54a06378d" class="button-secondary w-button">Checkout our pricing <span class="line-rounded-icons button-icon"><img src="assets/pricing-icon.png"></span></a>
                 </div>
             </div>
         </div>
