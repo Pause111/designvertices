@@ -257,7 +257,7 @@
                         </div>
                     </div>
     
-                    <div class="project-images-wrapper">
+                    <!-- <div class="project-images-wrapper">
                         <div class="projects-marquee first-row">
                             <div class="marquee">
                                 <a data-fancybox="gallery" href="https://delivertemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
@@ -466,7 +466,7 @@
                                     </div><img alt="Startux Portfolio Project - Design Vertices" src="assets/641a62fc3ed759860d3dc6b4_startux-portfolio-project-brix-agency.jpg" /></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="package-item mobile">
@@ -517,7 +517,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </div>
 
             <div class="container-default w-container">
