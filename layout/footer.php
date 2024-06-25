@@ -7,11 +7,11 @@
             <div class="nav-menu-wrapper footer-nav-wrapper">
                 <a href="/" class="footer-link simple-link">Home</a>
                 <a href="about" class="footer-link simple-link">About</a>
-                <a href="services" class="footer-link simple-link">Services</a>
                 <a href="portfolio" class="footer-link simple-link">Portfolio</a>
                 <a href="pricing" class="footer-link simple-link">Pricing</a>
                 <a href="blog" class="footer-link simple-link">Blog</a>
                 <a href="contact" class="footer-link simple-link">Contact</a>
+                <a href="policies" class="footer-link simple-link">Policies</a>
             </div>
             <div id="w-node-e2df512b-d898-978b-123d-4dff8bd240aa-1b86de3f" class="social-media-links-wrapper">
                 <a href="https://www.facebook.com/designvertices/" target="_blank"
@@ -96,10 +96,9 @@
         </div>
         <div class="footer-bottom">
             <div class="copyright-text">Copyright © 2024 Design Vertices™ | All Rights Reserved | <a href="#!"
-                    class="text-link copyright-link">Sitemap</a></div>
-                    <a
-                id="w-node-e2df512b-d898-978b-123d-4dff8bd24105-1b86de3f" href="#!"
-                class="w-inline-block" style="background-color: #146ef5;padding: 5px 15px 4px;color: white;text-decoration: none;border-radius: 5px;">Policies</a>
+                class="text-link copyright-link">Sitemap</a>
+            </div>
+            <p class="w-inline-block">30 N Gould St Ste N Sheridan, WY 82801</>
         </div>
     </div>
 </footer>
