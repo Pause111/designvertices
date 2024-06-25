@@ -27,7 +27,7 @@
 </head>
 
 <body>
-    
+    <?php require_once('layout/loader.php'); ?>
     <main class="page-wrapper">
         <!-- Header -->
         <?php require_once('layout/header.php'); ?>
