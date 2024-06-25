@@ -28082,7 +28082,7 @@ figcaption {
 .call-icon {
     position: fixed !important;
     bottom: 15px;
-    left: 55px;
+    left: 15px;
     cursor: pointer;
     z-index: 99999999;
     width: 50px;
