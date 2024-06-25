@@ -259,7 +259,7 @@
                 <div class="package-item mobile">
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 12; $i++) { ?>
-                            <a data-fancybox="gallery" href="" class="portfolio-item">
+                            <a data-fancybox="gallery" href="" class="cportfolio-item">
                                 <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
                             </a>
                         <?php } ?>
@@ -269,7 +269,7 @@
                 <div class="package-item branding">
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 8; $i++) { ?>
-                            <a data-fancybox="gallery" href="" class="portfolio-item">
+                            <a data-fancybox="gallery" href="" class="cportfolio-item">
                                 <img style="height:100%" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                             </a>
                         <?php } ?>
