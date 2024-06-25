@@ -47,6 +47,7 @@
                         class="button-row"><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd6" href="contact" target="_blank" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                 </div>
             </div>
+            <img src="assets/earth-1.png" alt="">
             <div class="project-hero-top-gradient"></div>
             <div class="project-hero-bottom-gradient"></div>
             <div class="isometric-grid-bg"></div>
