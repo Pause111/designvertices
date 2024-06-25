@@ -305,7 +305,7 @@
                     </div>
                 </div>
 
-                <div class="package-item brand">
+                <div class="package-item branding">
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 8; $i++) { ?>
                             <div class="card">
