@@ -251,7 +251,7 @@
             </div>
             <div data-w-id="c442fe62-5434-7bdd-6b91-6aea6691c370" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                 class="project-images mg-bottom-64px">
-                <div class="package-item mobile">
+                <div class="package-item mobile active">
                     <div class="project-images-wrapper first-row">
                         <div class="first-row">
                             <div class="w-layout-grid features-grid four-columns">
@@ -292,7 +292,7 @@
             <div class="container-default w-container">
                 <div class="w-layout-grid features-grid three-columns">
                     <!-- Web -->
-                    <?php require_once('layout/web-packages.php'); ?>
+                    <?php require_once('layout/app-packages.php'); ?>
                     <!-- Web -->
                 </div>
             </div>
