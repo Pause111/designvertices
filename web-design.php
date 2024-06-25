@@ -5,7 +5,7 @@
 <head>
     <?php require_once('layout/head.php'); ?>
     <title>The #1 website design agency | Design Vertices</title>
-    <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"
+    <meta content="Looking to design an amazing website for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"
     />
     <meta content="The #1 SaaS website design agency | Design Vertices" property="og:title" />
     <meta content="Looking to design an amazing website for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
@@ -107,8 +107,8 @@
                     <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee38" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                         class="heading-wrapper horizontal-content-wrapper">
                         <div class="inner-container _620px">
-                            <h2 class="subtitle color-neutral-100">SaaS WEBSITE DESIGN Agency Services</h2>
-                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your SaaS startup grow</p>
+                            <h2 class="subtitle color-neutral-100">WEBSITE DESIGN Agency Services</h2>
+                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your Website grow</p>
                         </div>
                         <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"><a href="contact" data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3f" target="_blank" class="button-primary white w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                     </div>
@@ -116,36 +116,36 @@
                         class="horizontal-wrapper-content">
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">SaaS Website Design Agency</h3>
-                                <p class="horizontal-item-text">Our team helps tech and SaaS startups design websites that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
+                                <h3 class="horizontal-item-heading">Website Design Agency</h3>
+                                <p class="horizontal-item-text">Our team helps startups design websites that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper bg-light-blue"><img src="assets/6407884ca5b1e88119c65bbd_saas-website-design-agency.png" loading="eager" alt="SaaS Website Design Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">SaaS Web Development Agency</h3>
-                                <p class="horizontal-item-text">Our websites are developed to be fast, SEO-optimized, and fully responsive, helping your SaaS startup in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
+                                <h3 class="horizontal-item-heading">Web Development Agency</h3>
+                                <p class="horizontal-item-text">Our websites are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS Website Development Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">SaaS Conversion Rate Optimization Agency</h3>
-                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core SaaS website landing pages, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
+                                <h3 class="horizontal-item-heading">Conversion Rate Optimization Agency</h3>
+                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core website landing pages, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c56eac51249d116ca_saas-conversion-rate-optimization-agency.png" loading="eager" alt="SaaS Conversion Rate Optimization Agency" class="horizontal-item-image"
                                 /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">SaaS Website Migration Agency</h3>
-                                <p class="horizontal-item-text">We help your SaaS company to migrate from old website platforms into state-of-the-art CMS platforms like Webflow to increase website performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
+                                <h3 class="horizontal-item-heading">CMS Website Agency</h3>
+                                <p class="horizontal-item-text">We help your company to build websites on any CMS platforms like Webflow, Wordpress or Shopify to increase website performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS Website Migration Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">SaaS Website Automation Agency</h3>
+                                <h3 class="horizontal-item-heading">Website Automation Agency</h3>
                                 <p class="horizontal-item-text">Your website should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS Website Automation Agency" class="horizontal-item-image" /></div>
@@ -160,16 +160,16 @@
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee82" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="inner-container _620px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Web Design Agency</h2>
-                    <p class="heading-size-h2">At Design Vertices we are experts in the SaaS industry</p>
-                    <p>Read some of the reasons why Design Vertices can help your SaaS or tech company design a high-performing website.</p>
+                    <p class="heading-size-h2">At Design Vertices we are experts in the Design industry</p>
+                    <p>Read some of the reasons why Design Vertices can help your company design a high-performing website.</p>
                 </div>
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee89" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="w-layout-grid features-grid two-columns">
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee8a-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b025b0d811b7212368b_saas-web-design-experts.png" loading="lazy" alt="SaaS Website Design Experts" class="feature-icon-image" /></div>
                         <div>
-                            <p class="features-grid-heading">Experts in SaaS ecosystem</p>
-                            <p class="features-grid-text">We have worked with 25+ SaaS &amp; B2B SaaS companies just in the past year alone, so we have a lot of experience in the industry.</p>
+                            <p class="features-grid-heading">Experts in CMS ecosystem</p>
+                            <p class="features-grid-text">We have worked with 25+ CMS &amp; B2B CMS companies just in the past year alone, so we have a lot of experience in the industry.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee92-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -183,7 +183,7 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Best web development standards</p>
-                            <p class="features-grid-text">We build websites following the best web development standards of 2023, so your website will have top-notch performance.</p>
+                            <p class="features-grid-text">We build websites following the best web development standards of 2024, so your website will have top-notch performance.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -508,8 +508,8 @@
                     class="inner-container _540px center">
                     <div class="text-center mg-bottom-40px">
                         <p class="subtitle">Frequently Asked Questions</p>
-                        <h2>SaaS Website Design Agency FAQs</h2>
-                        <p>If you have any question about our SaaS Website Design Agency, it is probably here. If not, please feel free to <a href="contact"
+                        <h2>Website Design Agency FAQs</h2>
+                        <p>If you have any question about our Website Design Agency, it is probably here. If not, please feel free to <a href="contact"
                                 target="_blank" class="text-link">get in touch</a>.</p>
                     </div>
                 </div>
@@ -520,12 +520,12 @@
                             <div class="faqs-arrow">
                                 <div class="line-rounded-icons arrow-icon"></div>
                             </div>
-                            <h3 class="faqs-title">How much does a SaaS website design costs?</h3>
+                            <h3 class="faqs-title">How much does a website design costs?</h3>
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Every SaaS web design agency has their own prices, however, due to the popularity of the SaaS industry, there is a big demand for agencies with experience in the SaaS, tech and software industry.</p>
-                                <p>Considering the data from a few agencies we researched, a <strong>full SaaS website with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
+                                <p>Every web design agency has their own prices, however, due to the popularity of the industry, there is a big demand for agencies with experience in the tech and software industry.</p>
+                                <p>Considering the data from a few agencies we researched, a <strong>full website with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
                                     side, you are working with a freelancer, you can expect an hourly rate in the range of <strong>$75 - $150 USD</strong>.</p>
                             </div>
                         </div>
@@ -535,14 +535,14 @@
                             <div class="faqs-arrow">
                                 <div class="line-rounded-icons arrow-icon"></div>
                             </div>
-                            <h3 class="faqs-title"><strong>How long does it take to design &amp; develop a SaaS website?</strong></h3>
+                            <h3 class="faqs-title"><strong>How long does it take to design &amp; develop a website?</strong></h3>
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Just like houses, the time for building a SaaS website depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page website with complex features and
+                                <p>Just like houses, the time for building a website depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page website with complex features and
                                     functionalities.</p>
-                                <p>However, based on the average project requests we receive, if we consider a <strong>10-page SaaS website</strong>, you should expect it to take <strong>in the range of 6-8 weeks</strong>.</p>
-                                <p>If you are interested in getting a detailed timeline and proposal for your SaaS project, please feel free to <a href="contact"
+                                <p>However, based on the average project requests we receive, if we consider a <strong>10-page website</strong>, you should expect it to take <strong>in the range of 6-8 weeks</strong>.</p>
+                                <p>If you are interested in getting a detailed timeline and proposal for your project, please feel free to <a href="contact"
                                         target="_blank">get in touch with our team</a> for a discovery call.</p>
                             </div>
                         </div>
@@ -552,18 +552,18 @@
                             <div class="faqs-arrow">
                                 <div class="line-rounded-icons arrow-icon"></div>
                             </div>
-                            <h3 class="faqs-title"><strong>What is the maintenance cost for a SaaS website?</strong></h3>
+                            <h3 class="faqs-title"><strong>What is the maintenance cost for a website?</strong></h3>
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Unlike the old days, now a days most websites are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a SaaS website is low</strong>.</p>
-                                <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the SaaS industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
+                                <p>Unlike the old days, now a days most websites are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a website is low</strong>.</p>
+                                <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4adcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                    class="button-row center single-button"><a data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4add0" href="contact" target="_blank" class="button-primary w-button">Get in touch with our SaaS agency <span class="line-rounded-icons button-icon"></span></a></div>
+                    class="button-row center single-button"><a data-w-id="d5c0bab9-8740-2ce0-6166-b4e1c2b4add0" href="contact" target="_blank" class="button-primary w-button">Get in touch with our agency <span class="line-rounded-icons button-icon"></span></a></div>
             </div>
         </section>
 
