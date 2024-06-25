@@ -47,14 +47,14 @@
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/earth-1.png" alt="SMM Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img style="background: #00009d1c;" src="assets/earth-1.png" alt="SMM Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">SMM</div>
                                                     <div class="text-100 color-neutral-600">High ranked social media marketing</div>
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img src="assets/video-icon-header.webp" alt="video animation Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img style="background: red;" src="assets/video-icon-header.webp" alt="video animation Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Video Animation</div>
                                                     <div class="text-100 color-neutral-600">Pixel-perfect video animation</div>
