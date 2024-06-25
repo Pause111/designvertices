@@ -28049,7 +28049,8 @@ figcaption {
 }
 
 .portfolio-section .package-item:hover,
-.mobile-portfolio .package-item:hover {
+.mobile-portfolio .package-item:hover,
+.brand-portfolio .package-item:hover {
     box-shadow: unset !important;
 }
 
