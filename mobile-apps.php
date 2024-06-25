@@ -186,8 +186,8 @@
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee9a-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
                         <div>
-                            <p class="features-grid-heading">Best web development standards</p>
-                            <p class="features-grid-text">We build apps following the best web development standards of 2024, so your app will have top-notch performance.</p>
+                            <p class="features-grid-heading">Best app development standards</p>
+                            <p class="features-grid-text">We build apps following the best app development standards of 2024, so your app will have top-notch performance.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
