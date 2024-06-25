@@ -130,29 +130,29 @@
                                 <h3 class="horizontal-item-heading">Mobile App Development Agency</h3>
                                 <p class="horizontal-item-text">Our apps are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS Website Development Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS app Development Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Conversion Rate Optimization Agency</h3>
-                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core website landing pages, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
+                                <p class="horizontal-item-text">With our A/B testing process, we increase the conversion rate of your core apps, resulting in increased revenue with the same amount of traffic.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee62" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c56eac51249d116ca_saas-conversion-rate-optimization-agency.png" loading="eager" alt="SaaS Conversion Rate Optimization Agency" class="horizontal-item-image"
                                 /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">CMS Website Agency</h3>
-                                <p class="horizontal-item-text">We help your company to build apps on any CMS platforms like Webflow, Wordpress or Shopify to increase website performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
+                                <h3 class="horizontal-item-heading">CMS App Agency</h3>
+                                <p class="horizontal-item-text">We help your company to build apps on any CMS platforms like Webflow, Wordpress or Shopify to increase app performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS Website Migration Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS app Migration Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">Website Automation Agency</h3>
-                                <p class="horizontal-item-text">Your website should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
+                                <h3 class="horizontal-item-heading">App Automation Agency</h3>
+                                <p class="horizontal-item-text">Your app should work for you, not the other way around. That is why we integrate it with your tools to help you save time, costs, and avoid repetitive tasks.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee7a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS Website Automation Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526de2fd24af33ef0130a56_saas-website-automation-agency.png" loading="eager" alt="SaaS app Automation Agency" class="horizontal-item-image" /></div>
                         </div>
                     </div>
                 </div>
@@ -187,42 +187,42 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Best web development standards</p>
-                            <p class="features-grid-text">We build apps following the best web development standards of 2024, so your website will have top-notch performance.</p>
+                            <p class="features-grid-text">We build apps following the best web development standards of 2024, so your app will have top-notch performance.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b02e8e4a86b39c7bc36_saas-website-experts.png" loading="lazy" alt="SaaS Website Experts" class="feature-icon-image" /></div>
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b02e8e4a86b39c7bc36_saas-website-experts.png" loading="lazy" alt="SaaS app Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Easy to management and scale</p>
-                            <p class="features-grid-text">Our apps are built only on cutting-edge CMS platforms that are focused on easy website management and long-term escalation.</p>
+                            <p class="features-grid-text">Our apps are built only on cutting-edge CMS platforms that are focused on easy app management and long-term escalation.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeaa-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b054736b0408b0f03b6_saas-speed-optimization-experts.png" loading="lazy" alt="SaaS Speed Optimization Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Speed optimization</p>
-                            <p class="features-grid-text">Never lose a lead due to poor website speed. We do in-depth optimization to help your SaaS website load lightning-fast.</p>
+                            <p class="features-grid-text">Never lose a lead due to poor app speed. We do in-depth optimization to help your SaaS app load lightning-fast.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeb2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0257c6aa046581768c_saas-website-seo-optimization-experts.png" loading="lazy" alt="SaaS Website SEO Optimization Experts" class="feature-icon-image" /></div>
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0257c6aa046581768c_saas-website-seo-optimization-experts.png" loading="lazy" alt="SaaS app SEO Optimization Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">On-page SEO optimization</p>
                             <p class="features-grid-text">All our client apps are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeba-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0121cddc743b29d4b1_saas-website-consultants.png" loading="lazy" alt="SaaS Website Consultants" class="feature-icon-image" /></div>
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0121cddc743b29d4b1_saas-website-consultants.png" loading="lazy" alt="SaaS app Consultants" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Easy and simple process</p>
-                            <p class="features-grid-text">Our team of experts takes you hand-by-hand on the website process from idea, to design, to development and launch.</p>
+                            <p class="features-grid-text">Our team of experts takes you hand-by-hand on the app process from idea, to design, to development and launch.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeec2-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b028579953a0499973a_saas-website-maintenance.png" loading="lazy" alt="SaaS Website Maintenance" class="feature-icon-image" /></div>
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b028579953a0499973a_saas-website-maintenance.png" loading="lazy" alt="SaaS app Maintenance" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Long-term support and help</p>
-                            <p class="features-grid-text">Once the project is completed, our team is always available to assist your company with future website updates.</p>
+                            <p class="features-grid-text">Once the project is completed, our team is always available to assist your company with future app updates.</p>
                         </div>
                     </div>
                 </div>
@@ -529,7 +529,7 @@
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
                                 <p>Every web design agency has their own prices, however, due to the popularity of the industry, there is a big demand for agencies with experience in the tech and software industry.</p>
-                                <p>Considering the data from a few agencies we researched, a <strong>full website with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
+                                <p>Considering the data from a few agencies we researched, a <strong>full app with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
                                     side, you are working with a freelancer, you can expect an hourly rate in the range of <strong>$75 - $150 USD</strong>.</p>
                             </div>
                         </div>
@@ -543,7 +543,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Just like houses, the time for building a website depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page website with complex features and
+                                <p>Just like houses, the time for building a app depends mostly on the complexity of the project. It won&#x27;t take the same to build a small 5-page website, versus building a 80-page app with complex features and
                                     functionalities.</p>
                                 <p>However, based on the average project requests we receive, if we consider a <strong>10-page website</strong>, you should expect it to take <strong>in the range of 6-8 weeks</strong>.</p>
                                 <p>If you are interested in getting a detailed timeline and proposal for your project, please feel free to <a href="contact"
@@ -560,7 +560,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Unlike the old days, now a days most apps are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a website is low</strong>.</p>
+                                <p>Unlike the old days, now a days most apps are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a app is low</strong>.</p>
                                 <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
                             </div>
                         </div>
