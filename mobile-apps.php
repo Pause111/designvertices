@@ -249,7 +249,7 @@
                     <p>Want to discover what we can do? Take a look at some of the amazing apps that have been created by our team of talented designers and developers.</p>
                 </div>
             </div>
-            <div class="package-item mobile">
+            <div class="package-item mobile active">
                 <div class="project-images-wrapper first-row">
                     <div class="first-row">
                         <div class="w-layout-grid features-grid four-columns">
