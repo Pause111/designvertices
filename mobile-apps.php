@@ -54,7 +54,7 @@
                             <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Mobile App Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Web Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Mobile App Agency" /></div>
                         </div>
@@ -66,7 +66,7 @@
                             <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Mobile App Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Web Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Mobile App Agency" /></div>
                             <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Mobile App Agency" /></div>
                         </div>
@@ -163,7 +163,7 @@
             <div class="container-default w-container">
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee82" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="inner-container _620px center text-center mg-bottom-40px">
-                    <h2 class="subtitle">Web Design Agency</h2>
+                    <h2 class="subtitle">Mobile App Agency</h2>
                     <p class="heading-size-h2">At Design Vertices we are experts in the Design industry</p>
                     <p>Read some of the reasons why Design Vertices can help your company design a high-performing website.</p>
                 </div>
@@ -528,7 +528,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Every web design agency has their own prices, however, due to the popularity of the industry, there is a big demand for agencies with experience in the tech and software industry.</p>
+                                <p>Every Mobile App agency has their own prices, however, due to the popularity of the industry, there is a big demand for agencies with experience in the tech and software industry.</p>
                                 <p>Considering the data from a few agencies we researched, a <strong>full app with 8-10 pages can be in the range of $25 - $50K USD</strong>, depending on the expertise of the agency you are working with. If on the other
                                     side, you are working with a freelancer, you can expect an hourly rate in the range of <strong>$75 - $150 USD</strong>.</p>
                             </div>
