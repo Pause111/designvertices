@@ -307,7 +307,7 @@
 
                 <div class="package-item brand">
                     <div class="w-layout-grid features-grid four-columns">
-                        <?php for ($i=1; $i <= 10; $i++) { ?>
+                        <?php for ($i=1; $i <= 8; $i++) { ?>
                             <div class="card">
                                 <img src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                             </div>
