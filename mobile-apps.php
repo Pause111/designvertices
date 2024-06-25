@@ -47,54 +47,54 @@
                 <div class="project-hero-images-wrapper">
                     <div class="projects-hero-marquee first">
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/6411e2a3a15d94af539cc244_storj-project-saas-web-design-agency.png" alt="Storj Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be4fc280ea1dd693efd33_techflow-project-saas-website-design-agency.png" alt="Techflow Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6ee3fcbc59214f2fa_uplead-project-saas-web-design-agency.jpg" alt="UpLead Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be5566efbe69f39743a3e_darktech-project-saas-website-design-agency.png" alt="Darktech Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be3847b48639d7fdc1b7b_upside-project-saas-website-design-agency.png" alt="Upside Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a015c8844b394e773e_starup-project-saas-web-design-agency.png" alt="StarUp Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a03565692a47ffe5ed_yesware-project-saas-web-design-agency.png" alt="Yesware Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a0fbd274df6bf887fd_darkweb-project-saas-web-design-agency.png" alt="Darkweb Project - SaaS Web Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f6e7791072e09966_subsplash-project-saas-web-design-agency.jpg" alt="Subsplash Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f8da6dc53d94a768a_techos-project-saas-web-design-agency.png" alt="TechOS Project - SaaS Website Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a1.webp" alt="Storj Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a2.webp" alt="Techflow Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a3.webp" alt="UpLead Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a4.webp" alt="Darktech Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Web Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Mobile App Agency" /></div>
                         </div>
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/6411e2a3a15d94af539cc244_storj-project-saas-web-design-agency.png" alt="Storj Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be4fc280ea1dd693efd33_techflow-project-saas-website-design-agency.png" alt="Techflow Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6ee3fcbc59214f2fa_uplead-project-saas-web-design-agency.jpg" alt="UpLead Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be5566efbe69f39743a3e_darktech-project-saas-website-design-agency.png" alt="Darktech Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/655be3847b48639d7fdc1b7b_upside-project-saas-website-design-agency.png" alt="Upside Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a015c8844b394e773e_starup-project-saas-web-design-agency.png" alt="StarUp Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a03565692a47ffe5ed_yesware-project-saas-web-design-agency.png" alt="Yesware Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a0fbd274df6bf887fd_darkweb-project-saas-web-design-agency.png" alt="Darkweb Project - SaaS Web Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f6e7791072e09966_subsplash-project-saas-web-design-agency.jpg" alt="Subsplash Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f8da6dc53d94a768a_techos-project-saas-web-design-agency.png" alt="TechOS Project - SaaS Website Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a1.webp" alt="Storj Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a2.webp" alt="Techflow Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a3.webp" alt="UpLead Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a4.webp" alt="Darktech Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Web Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Mobile App Agency" /></div>
                         </div>
                     </div>
                     <div class="projects-hero-marquee second">
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS Website Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS Mobile App Agency" /></div>
                         </div>
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS Website Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS Website Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a090c146808f5097af_techstar-project-saas-web-design-agency.png" alt="Techstar Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1946595e080708a43_watchful-project-saas-web-design-agency.png" alt="Watchful Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a190c14610335097d0_techly-project-saas-web-design-agency.png" alt="Techly Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1f7ae63138f61ab51_promoplus-project-saas-web-design-agency.png" alt="Promoplus Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e2a1f4fa687d35173753_techbit-project-saas-web-design-agency.png" alt="Techbit Project - SaaS Mobile App Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS Mobile App Agency" /></div>
                         </div>
                     </div>
                 </div>
@@ -111,8 +111,8 @@
                     <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee38" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                         class="heading-wrapper horizontal-content-wrapper">
                         <div class="inner-container _620px">
-                            <h2 class="subtitle color-neutral-100">WEBSITE DESIGN Agency Services</h2>
-                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your Website grow</p>
+                            <h2 class="subtitle color-neutral-100">Mobile App Agency Services</h2>
+                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">Services that help your App grow</p>
                         </div>
                         <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"><a href="contact" data-w-id="7425446c-08f6-465b-0ad4-2eb789deee3f" target="_blank" class="button-primary white w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                     </div>
@@ -120,15 +120,15 @@
                         class="horizontal-wrapper-content">
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">Website Design Agency</h3>
-                                <p class="horizontal-item-text">Our team helps startups design websites that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
+                                <h3 class="horizontal-item-heading">Mobile App Design Agency</h3>
+                                <p class="horizontal-item-text">Our team helps startups design apps that look amazing, are focused on improving brand positioning, and are highly optimized for conversion.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee4a" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
-                            <div class="horizontal-item-image-wrapper bg-light-blue"><img src="assets/6407884ca5b1e88119c65bbd_saas-website-design-agency.png" loading="eager" alt="SaaS Website Design Agency" class="horizontal-item-image" /></div>
+                            <div class="horizontal-item-image-wrapper bg-light-blue"><img src="assets/6407884ca5b1e88119c65bbd_saas-website-design-agency.png" loading="eager" alt="SaaS Mobile App Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
-                                <h3 class="horizontal-item-heading">Web Development Agency</h3>
-                                <p class="horizontal-item-text">Our websites are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
+                                <h3 class="horizontal-item-heading">Mobile App Development Agency</h3>
+                                <p class="horizontal-item-text">Our apps are developed to be fast, SEO-optimized, and fully responsive, helping your business in getting more visitors and leads.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee56" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6407884c9f88d7e9d432fb42_saas-web-development-agency.png" loading="eager" alt="SaaS Website Development Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -143,7 +143,7 @@
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">CMS Website Agency</h3>
-                                <p class="horizontal-item-text">We help your company to build websites on any CMS platforms like Webflow, Wordpress or Shopify to increase website performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
+                                <p class="horizontal-item-text">We help your company to build apps on any CMS platforms like Webflow, Wordpress or Shopify to increase website performance, security, and more.</p><a data-w-id="7425446c-08f6-465b-0ad4-2eb789deee6e" href="contact"
                                     target="_blank" class="arrow-link small w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                             <div class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/6526ddf68dc173134ef4c1e4_saas-website-migration-agency.png" loading="eager" alt="SaaS Website Migration Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -170,7 +170,7 @@
                 <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deee89" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                     class="w-layout-grid features-grid two-columns">
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee8a-2f8fd74b" class="card features-grid-card horizontal-card">
-                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b025b0d811b7212368b_saas-web-design-experts.png" loading="lazy" alt="SaaS Website Design Experts" class="feature-icon-image" /></div>
+                        <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b025b0d811b7212368b_saas-web-design-experts.png" loading="lazy" alt="SaaS Mobile App Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Experts in CMS ecosystem</p>
                             <p class="features-grid-text">We have worked with 25+ CMS &amp; B2B CMS companies just in the past year alone, so we have a lot of experience in the industry.</p>
@@ -180,21 +180,21 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b016f931a006d07c153_saas-design-experts.png" loading="lazy" alt="SaaS Design Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Premium design</p>
-                            <p class="features-grid-text">We create amazing website designs that will not just look awesome, but also are highly optimized for increasing conversions.</p>
+                            <p class="features-grid-text">We create amazing Mobile Apps that will not just look awesome, but also are highly optimized for increasing conversions.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deee9a-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b011a919508b7826e36_saas-development-experts.png" loading="lazy" alt="SaaS Development Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Best web development standards</p>
-                            <p class="features-grid-text">We build websites following the best web development standards of 2024, so your website will have top-notch performance.</p>
+                            <p class="features-grid-text">We build apps following the best web development standards of 2024, so your website will have top-notch performance.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeea2-2f8fd74b" class="card features-grid-card horizontal-card">
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b02e8e4a86b39c7bc36_saas-website-experts.png" loading="lazy" alt="SaaS Website Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">Easy to management and scale</p>
-                            <p class="features-grid-text">Our websites are built only on cutting-edge CMS platforms that are focused on easy website management and long-term escalation.</p>
+                            <p class="features-grid-text">Our apps are built only on cutting-edge CMS platforms that are focused on easy website management and long-term escalation.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeaa-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -208,7 +208,7 @@
                         <div class="icon-wrapper features-grid-icon-wrapper horizontal-card"><img src="assets/64078b0257c6aa046581768c_saas-website-seo-optimization-experts.png" loading="lazy" alt="SaaS Website SEO Optimization Experts" class="feature-icon-image" /></div>
                         <div>
                             <p class="features-grid-heading">On-page SEO optimization</p>
-                            <p class="features-grid-text">All our client websites are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
+                            <p class="features-grid-text">All our client apps are structured and optimized to follow the best on-page SEO guidelines based on advanced technical SEO.</p>
                         </div>
                     </div>
                     <div id="w-node-_7425446c-08f6-465b-0ad4-2eb789deeeba-2f8fd74b" class="card features-grid-card horizontal-card">
@@ -246,7 +246,7 @@
                     class="inner-container _712px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Past projects</h2>
                     <p class="heading-size-h2">Let our work speak for itself</p>
-                    <p>Want to discover what we can do? Take a look at some of the amazing websites that have been created by our team of talented designers and developers.</p>
+                    <p>Want to discover what we can do? Take a look at some of the amazing apps that have been created by our team of talented designers and developers.</p>
                 </div>
             </div>
             <div data-w-id="c442fe62-5434-7bdd-6b91-6aea6691c370" style="opacity:1;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
@@ -479,7 +479,7 @@
                     class="inner-container _712px center text-center mg-bottom-40px">
                     <h2 class="subtitle">Packages</h2>
                     <p class="heading-size-h2">Pocket Friendly Pricing</p>
-                    <p>Want to discover what we can do? Take a look at some of the amazing websites that have been created by our team of talented designers and developers.</p>
+                    <p>Want to discover what we can do? Take a look at some of the amazing apps that have been created by our team of talented designers and developers.</p>
                 </div>
             </div>
 
@@ -512,8 +512,8 @@
                     class="inner-container _540px center">
                     <div class="text-center mg-bottom-40px">
                         <p class="subtitle">Frequently Asked Questions</p>
-                        <h2>Website Design Agency FAQs</h2>
-                        <p>If you have any question about our Website Design Agency, it is probably here. If not, please feel free to <a href="contact"
+                        <h2>Mobile App Agency FAQs</h2>
+                        <p>If you have any question about our Mobile App Agency, it is probably here. If not, please feel free to <a href="contact"
                                 target="_blank" class="text-link">get in touch</a>.</p>
                     </div>
                 </div>
@@ -524,7 +524,7 @@
                             <div class="faqs-arrow">
                                 <div class="line-rounded-icons arrow-icon"></div>
                             </div>
-                            <h3 class="faqs-title">How much does a website design costs?</h3>
+                            <h3 class="faqs-title">How much does a Mobile App costs?</h3>
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
@@ -560,7 +560,7 @@
                         </div>
                         <div style="display:none;height:0px;opacity:0" class="faqs-bottom-content">
                             <div class="faqs-content w-richtext">
-                                <p>Unlike the old days, now a days most websites are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a website is low</strong>.</p>
+                                <p>Unlike the old days, now a days most apps are built on top of powerful CMS platforms that don&#x27;t require as much maintenance or updates, so in most cases, <strong>the maintenance cost for a website is low</strong>.</p>
                                 <p>However, if you are looking to do weekly or monthly updates, you can expect <strong>agencies with experience in the industry to charge in the range of $100 - $200/hr</strong> for updates requested.</p>
                             </div>
                         </div>
