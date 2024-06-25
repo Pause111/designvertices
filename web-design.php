@@ -497,6 +497,10 @@
         </div>
         <!-- Pricing -->
 
+        <!-- CTA -->
+        <?php require_once('layout/cta-2.php'); ?>
+        <!-- CTA -->
+
         <!-- FAQs -->
         <section class="section" style="padding-top: 100px;padding-bottom: 100px;">
             <div class="container-default w-container">
