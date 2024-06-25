@@ -37,30 +37,23 @@
             <div class="container-default w-container">
                 <div class="contact-wrapper">
                     <div class="mg-bottom-56px">
-                        <div data-w-id="dcac845b-7f0f-776e-506a-8479f8373797"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                            class="icon-wrapper contact-heading-icon responsive-icon"><img
-                                src="assets/63fe380185bc92f0405e19f2_send-us-a-message-brix-agency.png"
-                                alt="Send us a Message - Design Vertices"></div>
-                        <h1 data-w-id="6def58f8-f1f9-aca1-1cc0-d44be831fb0b"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                            class="subtitle">Contact us</h1>
-                        <div data-w-id="39006fd9-5e1a-7b8c-4eab-782457c90ab9"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                            class="contact-heading-wrapper">
-                            <p class="display-1 mg-bottom-0">Send us a message</p>
-                            <div style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                                class="icon-wrapper contact-heading-icon"><img
-                                    src="assets/63fe380185bc92f0405e19f2_send-us-a-message-brix-agency.png"
-                                    alt="Send us a Message - Design Vertices"></div>
+                        <div data-w-id="dcac845b-7f0f-776e-506a-8479f8373797" class="icon-wrapper contact-heading-icon responsive-icon">
+                            <img src="assets/63fe380185bc92f0405e19f2_send-us-a-message-brix-agency.png" alt="Send us a Message - Design Vertices">
                         </div>
-                        <p data-w-id="a504a7cd-a196-70f1-f28a-ce2bfe547ba5"
-                            style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                            <h1 data-w-id="6def58f8-f1f9-aca1-1cc0-d44be831fb0b" class="subtitle">Contact us</h1>
+                            <div data-w-id="39006fd9-5e1a-7b8c-4eab-782457c90ab9" class="contact-heading-wrapper">
+                                <p class="display-1 mg-bottom-0">Send us a message</p>
+                                <div class="icon-wrapper contact-heading-icon">
+                                    <img src="assets/63fe380185bc92f0405e19f2_send-us-a-message-brix-agency.png" alt="Send us a Message - Design Vertices">
+                                </div>
+                            </div>
+                        <p data-w-id="a504a7cd-a196-70f1-f28a-ce2bfe547ba5">
                             Fill the form below and one of our team members will get back to you within 24 business hours to
-                            schedule a project discovery call.</p>
+                            schedule a project discovery call.
+                        </p>
                     </div>
                     <div data-w-id="1def6768-e1d3-3dc4-e1b5-5c05af8f54d5"
-                        style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+                        
                         class="w-form">
                         <form action="post" class="contact-form-wrapper"
                             aria-label="Design Vertices Project Form">
