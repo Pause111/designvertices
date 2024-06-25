@@ -68,12 +68,12 @@
             </div>
         </div>
 
-        <div id="learn-more" class="section overflow-hidden">
+        <div id="learn-more" class="section overflow-hidden" style="padding-top:100px;padding-bottom:100px;">
             <div class="container-default w-container">
                 <div class="inner-container _640px center">
                     <div class="text-center mg-bottom-40px">
                         <div data-w-id="57d76f6f-36e0-d1b1-fc53-92b225e02a68" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">
-                            <img style="55px;" src="assets/dvblack.png" loading="eager" alt="Logo Design Vertices" />
+                            <img style="55px;margin-bottom: 3rem;" src="assets/dvblack.png" loading="eager" alt="Logo Design Vertices" />
                         </div>
                         <p data-w-id="a860e4fa-c0ef-1105-a622-ced1fe6ad1cf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                             class="heading-size-h2">The story started 10 years ago</p>
