@@ -45,8 +45,8 @@
 
                 <div class="package-item web active">
                     <div class="project-images-wrapper first-row">
-                        <div class="projects-marquee first-row">
-                            <div class="marquee">
+                        <div class="projects- first-row">
+                            <div class="">
                                 <a data-fancybox="gallery" href="https://ideahubtemplate.webflow.io/" target="_blank" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
@@ -97,7 +97,7 @@
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                     </div><img alt="Corporation Portfolio Project - Design Vertices" src="assets/641a5f720ec6dba6af37bdc6_corporation-portfolio-project-brix-agency.jpg" /></a>
                             </div>
-                            <div class="marquee">
+                            <div class="">
                                 <a data-fancybox="gallery" href="https://ideahubtemplate.webflow.io/" target="_blank" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
@@ -149,8 +149,8 @@
                                     </div><img alt="Corporation Portfolio Project - Design Vertices" src="assets/641a5f720ec6dba6af37bdc6_corporation-portfolio-project-brix-agency.jpg" /></a>
                             </div>
                         </div>
-                        <div class="projects-marquee second-row">
-                            <div class="marquee">
+                        <div class="projects- second-row">
+                            <div class="">
                                 <a data-fancybox="gallery" href="https://pixelittemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
@@ -201,7 +201,7 @@
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                     </div><img alt="Banca Portfolio Project - Design Vertices" src="assets/64122161777764383a168b35_banca-portfolio-project-brix-agency.jpg" /></a>
                             </div>
-                            <div class="marquee">
+                            <div class="">
                                 <a data-fancybox="gallery" href="https://pixelittemplate.webflow.io/home" target="_blank" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
