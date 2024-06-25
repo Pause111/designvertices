@@ -197,7 +197,7 @@
         <div id="services" data-w-id="f85aa83e-c8ee-d138-278d-2586fc74a393" class="section bg-neutral-200 horizontal-section" style="padding-top:100px;padding-bottom:100px;">
             <div class="horizontal-camera">
                 <div class="container-default w-container">
-                    <div class="inner-container _600px center">
+                    <div class="inner-container center">
                         <div class="text-center mg-bottom-40px">
                             <h2 data-w-id="269169fb-2a9b-88cf-09c3-16e56ff6d9fa" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">The values that drive everything we do</h2>
                             <p data-w-id="783e9c4e-b19d-da06-94db-f075ea7d8787" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">If you are so great at something, while only doing it for others? That is why in 2020 we started building our own products.</p>
