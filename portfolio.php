@@ -35,6 +35,16 @@
             </div>
 
             <div data-w-id="c442fe62-5434-7bdd-6b91-6aea6691c370" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="project-images mg-bottom-64px">
+                
+                <ul class="package-selectors">
+                    <li><a href="" class="button-primary package-selector active" data-package="web">Web Design</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="mobile">Mobile Apps</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="branding">Branding</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="seo">SEO</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="smm">SMM</a></li>
+                    <li><a href="" class="button-secondary package-selector" data-package="video">Video Animation</a></li>
+                </ul>
+
                 <div class="project-images-wrapper first-row">
                     <div class="projects-marquee first-row">
                         <div class="marquee">
