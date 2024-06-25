@@ -176,7 +176,7 @@
                                         <div class="project-item-btn-wrapper">
                                             <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
                                         </div>
-                                        <img src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
+                                        <img style="height: 100%;" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                                     </a>
                                 <?php } ?>
                             </div>
