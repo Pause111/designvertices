@@ -25,35 +25,35 @@
                                                     <div class="text-100 color-neutral-600">High-converting websites</div>
                                                 </div>
                                             </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-yellow w-inline-block">
+                                            <a href="mobile-apps" class="megamenu-link-wrapper hover-yellow w-inline-block">
                                                 <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f07c8cb2bc407099ca_ui-ux-design-services.png" alt="Mobile Apps Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Mobile Apps</div>
                                                     <div class="text-100 color-neutral-600">Intuitive mobile apps</div>
                                                 </div>
                                             </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-green w-inline-block">
+                                            <a href="brand-design" class="megamenu-link-wrapper hover-green w-inline-block">
                                                 <div class="icon-wrapper megamenu-link-icon"><img src="assets/6414b8f033c5f7730e4f82ee_brand-design-services.png" alt="Brand Design Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Brand Design</div>
                                                     <div class="text-100 color-neutral-600">We design world-class brands</div>
                                                 </div>
                                             </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-purple w-inline-block">
+                                            <a href="search-engine-optimization" class="megamenu-link-wrapper hover-purple w-inline-block">
                                                 <div class="icon-wrapper megamenu-link-icon"><img src="assets/640762db378afb58feb7e6bf_conversion-optimization-services.png" alt="SEO Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">SEO</div>
                                                     <div class="text-100 color-neutral-600">Next-level website performance</div>
                                                 </div>
                                             </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
+                                            <a href="social-media-marketing" class="megamenu-link-wrapper hover-blue w-inline-block">
                                                 <div class="icon-wrapper megamenu-link-icon"><img style="background: #00009d1c;" src="assets/earth-1.png" alt="SMM Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">SMM</div>
                                                     <div class="text-100 color-neutral-600">High ranked social media marketing</div>
                                                 </div>
                                             </a>
-                                            <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
+                                            <a href="video-animation" class="megamenu-link-wrapper hover-blue w-inline-block">
                                                 <div class="icon-wrapper megamenu-link-icon"><img style="background: #ff000029;" src="assets/video-icon-header.webp" alt="video animation Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Video Animation</div>
