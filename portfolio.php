@@ -255,6 +255,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="project-images-wrapper package-item web active">
                     <div class="projects-marquee first-row">
                         <div class="marquee">
@@ -466,7 +467,7 @@
                     </div>
                 </div>
 
-                <div class="project-images-wrapper first-row package-item mobile">
+                <div class="project-images-wrapper package-item mobile">
                     <div class="projects-marquee first-row">
                         <div class="marquee">
                             <?php for ($i=1; $i <= 10; $i++) { ?>
@@ -477,10 +478,9 @@
                                     <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
                                 </a>
                             <?php } ?>
-                            
                         </div>
                         <div class="marquee">
-                            <?php for ($i=11; $i < 17; $i++) { ?>
+                            <?php for ($i=1; $i <= 10; $i++) { ?>
                                 <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
                                     <div class="project-item-btn-wrapper">
                                         <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
@@ -489,7 +489,29 @@
                                 </a>
                             <?php } ?>
                         </div>
-                    </div>    
+                    </div>
+                    <div class="projects-marquee second-row">
+                        <div class="marquee">
+                            <?php for ($i=11; $i <= 17; $i++) { ?>
+                                <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                                    <div class="project-item-btn-wrapper">
+                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                    </div>
+                                    <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
+                                </a>
+                            <?php } ?>
+                        </div>
+                        <div class="marquee">
+                            <?php for ($i=11; $i <= 17; $i++) { ?>
+                                <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                                    <div class="project-item-btn-wrapper">
+                                        <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                    </div>
+                                    <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
+                                </a>
+                            <?php } ?>
+                        </div>
+                    </div>
                 </div>
             </div>
 
