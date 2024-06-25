@@ -54,7 +54,7 @@
                                                 </div>
                                             </a>
                                             <a href="#!" class="megamenu-link-wrapper hover-blue w-inline-block">
-                                                <div class="icon-wrapper megamenu-link-icon"><img style="background: red;" src="assets/video-icon-header.webp" alt="video animation Services" /></div>
+                                                <div class="icon-wrapper megamenu-link-icon"><img style="background: #ff000029;" src="assets/video-icon-header.webp" alt="video animation Services" /></div>
                                                 <div class="megamenu-link-content">
                                                     <div class="text-100 bold mg-bottom-8px">Video Animation</div>
                                                     <div class="text-100 color-neutral-600">Pixel-perfect video animation</div>

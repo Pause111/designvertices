@@ -115,7 +115,7 @@
                                 <h3 class="horizontal-item-heading">Social Media Marketing</h3>
                                 <p class="horizontal-item-text">Elevate your online presence with our expert social media marketing strategies! 🚀</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="#!#web-development" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
-                                class="horizontal-item-image-wrapper bg-light-blue"><img src="assets/smm-service.jpg" loading="eager" alt="Web Development Agency" class="horizontal-item-image" /></div>
+                                class="horizontal-item-image-wrapper bg-light-blue" style="background-color:#ffefe7;"><img src="assets/smm-service.jpg" loading="eager" alt="SMM Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
