@@ -258,8 +258,11 @@
 
                 <div class="package-item mobile">
                     <div class="w-layout-grid features-grid four-columns">
-                        <?php for ($i=1; $i <= 16; $i++) { ?>
-                            <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                        <?php for ($i=1; $i <= 10; $i++) { ?>
+                            <a data-fancybox="gallery" href="" class="portfolio-item">
+                                <div class="project-item-btn-wrapper">
+                                    <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
+                                </div>
                                 <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
                             </a>
                         <?php } ?>
@@ -269,7 +272,7 @@
                 <div class="package-item branding">
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 8; $i++) { ?>
-                            <div class="card">
+                            <div class="card portfolio-item">
                                 <img data-fancybox="gallery" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                             </div>
                         <?php } ?>

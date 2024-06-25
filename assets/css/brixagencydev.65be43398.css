@@ -28070,6 +28070,12 @@ figcaption {
     display: flex;
 }
 
+.portfolio-item {
+    border: 1px solid var(--neutral--300);
+    box-shadow: 0 4px 12px 0 var(--shadow--white-02);
+    border-radius: 24px;
+}
+
 @media screen and (max-width: 500px) {
     .package-selectors {
         justify-content: start;
