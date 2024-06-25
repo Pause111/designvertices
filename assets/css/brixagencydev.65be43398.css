@@ -28065,7 +28065,7 @@ figcaption {
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
 .package-item.active {
@@ -28096,6 +28096,10 @@ figcaption {
         overflow-x: scroll;
         padding-top: 1rem;
         padding-left: 0;
+    }
+
+    .site-logo {
+        height: 35px;
     }
 }
 /* Additional CSS */

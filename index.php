@@ -454,7 +454,7 @@
 
             <div class="container-default w-container">
 
-                <ul class="package-selectors">
+                <ul class="package-selectors a">
                     <li><a href="" class="button-primary package-selector active" data-package="web">Web Design</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="mobile">Mobile Apps</a></li>
                     <li><a href="" class="button-secondary package-selector" data-package="branding">Branding</a></li>
