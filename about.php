@@ -84,7 +84,7 @@
                     class="about-grid">
                     <div id="w-node-_0de47f9d-3898-e643-8c69-a9a959ca8e63-ae12a034" class="card about-grid-card websites-built">
                         <div class="about-grid-content websites-built">
-                            <div class="special-display about-grid-display">200<span class="color-red">+</span></div>
+                            <div class="special-display about-grid-display">600<span class="color-red">+</span></div>
                             <div class="special-text">Websites built</div>
                         </div>
                         <div class="about-grid-image-wrapper websites-built"><img src="assets/640f56c549b6eae9a4b53b55_website-project-by-brix-agency.png" loading="eager" alt="Website Project by Design Vertices" class="websites-built-image" /></div>
@@ -102,7 +102,7 @@
                     <div class="card about-grid-card horizontal-flex">
                         <div class="icon-wrapper about-developers"><img src="assets/640f4ccd93d5daa33c67d203_team-of-developers-at-brix-agency.png" loading="eager" alt="Team of Developers at Design Vertices" /></div>
                         <div class="about-stats-wrapper">
-                            <div class="special-display about-grid-display small">7<span class="color-blue">+</span></div>
+                            <div class="special-display about-grid-display small">17<span class="color-blue">+</span></div>
                             <div class="special-text small">Amazing developers</div>
                         </div>
                     </div>
@@ -173,101 +173,24 @@
                 </div>
             </div>
             <div class="about-grid-content about-marquee-text">
-                <div class="special-display about-grid-display">100<span class="color-green">+</span></div>
+                <div class="special-display about-grid-display">300<span class="color-green">+</span></div>
                 <div class="special-text">Amazing clients</div>
             </div>
         </div>
         <div class="card about-grid-card horizontal-flex">
             <div class="about-stats-wrapper">
-                <div class="special-display about-grid-display small">9<span class="color-red">+</span></div>
+                <div class="special-display about-grid-display small">19<span class="color-red">+</span></div>
                 <div class="special-text small">Amazing designers</div>
             </div>
             <div class="icon-wrapper about-designers"><img src="assets/640f4ccd0d56c72d0a34527f_team-of-designers-at-brix-agency.png" loading="eager" alt="Team of Designers at Design Vertices" class="fit-contain" /></div>
         </div>
         </div>
         <div data-w-id="ea50b4a0-2835-4563-8095-3a49466006e9" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-            class="button-row center mg-top-40px"><a data-w-id="b95656c7-cb31-8d3d-7fb4-21cd8361b5ef" href="https://brixagency.com/contact?utm_source=BRIX%20Agency&amp;utm_medium=Website&amp;utm_campaign=About%20us" target="_blank" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon small-arrow"></span></a></div>
+            class="button-row center mg-top-40px"><a data-w-id="b95656c7-cb31-8d3d-7fb4-21cd8361b5ef" href="contact" target="_blank" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon small-arrow"></span></a></div>
         </div>
         </div>
 
-        <div class="section bg-neutral-200">
-            <div class="container-default w-container">
-                <div class="inner-container _640px center">
-                    <div class="text-center mg-bottom-40px">
-                        <h2 data-w-id="983bcb79-a43d-bbc7-864f-82586c05970e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">Our accomplishments</h2>
-                        <p data-w-id="2328d032-1c6a-611e-115f-5d60899a4844" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">If you are so great at something, while only doing it for others? That is why in 2020 we started building our own digital products.</p>
-                    </div>
-                </div>
-                <div data-w-id="c4423d10-6e43-d242-dc40-25a029fcc6e9" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                    class="about-grid third-row">
-                    <div id="w-node-c4423d10-6e43-d242-dc40-25a029fcc6ea-ae12a034" class="card about-grid-card horizontal-flex split-color-card">
-                        <div class="about-grid-content side-by-side-content">
-                            <div class="icon-wrapper about-bt-logo"><img src="assets/640f5e39adea4abbc2f26bf8_brix-templates-logo.png" loading="eager" alt="BRIX Templates Logo" /></div>
-                            <h3>100+ Webflow templates</h3>
-                            <p class="mg-bottom-24px">We have hundred of premium Webflow templates loved by thousands of users.</p><a data-w-id="b8e66b1f-deaa-229b-2afd-293e09dd9fba" href="https://brixtemplates.com/" target="_blank" class="arrow-link small color-purple w-button">Browse Templates <span class="line-rounded-icons button-icon"></span></a></div>
-                        <div
-                            class="about-grid-image-wrapper webflow-templates"><img src="assets/6526d55816e1440ebffbe287_webflow-templates-by-brix-agency.png" loading="eager" alt="Webflow Templates by Design Vertices" /></div>
-                </div>
-                <div id="w-node-c4423d10-6e43-d242-dc40-25a029fcc6f4-ae12a034" class="card about-grid-card vertical-center">
-                    <div class="mg-bottom-24px">
-                        <h3 class="mg-bottom-16px">50+ Figma cloneables</h3><a data-w-id="7e1d92cf-7b59-258c-3884-27a33b14ca62" href="https://figma.com/@brixtemplates" target="_blank" class="arrow-link small color-figma w-button">Browse Cloneables <span class="line-rounded-icons button-icon"></span></a></div>
-                    <div
-                        class="about-grid-image-wrapper figma-cloneables"><img src="assets/640f5e39377889b351ddf611_figma-cloneables-by-brix-agency.png" loading="eager" alt="Figma Cloneables by Design Vertices" /></div>
-            </div>
-        </div>
-        <div data-w-id="f5cc5996-80e6-6217-aa04-fb1af75305c6" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-            class="about-grid fourth-row">
-            <div id="w-node-f5cc5996-80e6-6217-aa04-fb1af75305d5-ae12a034" class="card about-grid-card vertical-center">
-                <div class="about-grid-image-wrapper webflow-template-developer"><img src="assets/6526d5c572a4ef0f1b91ca1c_webflow-award.png" loading="eager" alt="Webflow Award" class="webflow-template-developer-image" /></div>
-                <div>
-                    <h3 class="mg-bottom-16px">Webflow Template Developer of the year</h3><a data-w-id="f5cc5996-80e6-6217-aa04-fb1af75305d8" href="https://webflow.com/webflowconf/awards/brix-templates" target="_blank" class="arrow-link small color-blue w-button">Learn More <span class="line-rounded-icons button-icon"></span></a></div>
-            </div>
-            <div id="w-node-f5cc5996-80e6-6217-aa04-fb1af75305c7-ae12a034" class="card about-grid-card figma-community">
-                <div class="about-grid-content figma-community">
-                    <div class="icon-wrapper about-figma-logo"><img src="assets/640f5e392e973ef2a54f36bf_figma-logo.png" loading="eager" alt="Figma Logo" /></div>
-                    <h3 class="mg-bottom-24px">250,000+ downloads in Figma Community</h3><a data-w-id="f5cc5996-80e6-6217-aa04-fb1af75305cf" href="https://www.figma.com/@brixtemplates" target="_blank" class="arrow-link small color-figma w-button">Visit Profile <span class="line-rounded-icons button-icon"></span></a></div>
-                <div
-                    class="about-grid-image-wrapper figma-community"><img src="assets/640f63799ca994c23ac34dea_figma-community-files-by-brix-agency.png" loading="eager" alt="Figma Community Files by Design Vertices" class="figma-community-image" /></div>
-        </div>
-        </div>
-        <div data-w-id="c708b9d9-f321-aba9-fd68-8031112af680" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-            class="about-grid fifth-row">
-            <div id="w-node-c708b9d9-f321-aba9-fd68-8031112af681-ae12a034" class="card about-grid-card vertical-center final-card">
-                <div class="about-grid-image-wrapper brix-blog"><img src="assets/640f661b87eae4987673f432_blog-by-brix-agency.png" loading="eager" alt="Blog by Design Vertices" /></div>
-                <div>
-                    <h3 class="mg-bottom-16px">10,000+ monthly blog readers</h3><a data-w-id="c708b9d9-f321-aba9-fd68-8031112af687" href="/blog" class="arrow-link small color-blue w-button">Read blog <span class="line-rounded-icons button-icon"></span></a></div>
-            </div>
-            <div id="w-node-cdc96f4b-34db-6824-e597-a28e759f8e8f-ae12a034" class="card about-grid-card vertical-center final-card">
-                <div class="about-grid-image-wrapper hubspot-theme"><img src="assets/640f661b4ca561733d85ddc0_hubspot-award-for-brix-agency.png" loading="eager" alt="HubSpot Award for Design Vertices" /></div>
-                <div>
-                    <h3 class="mg-bottom-16px">Highest rated HubSpost theme</h3><a data-w-id="cdc96f4b-34db-6824-e597-a28e759f8e95" href="https://inboundelements.com/" target="_blank" class="arrow-link small color-hubspot w-button">Browse Templates <span class="line-rounded-icons button-icon"></span></a></div>
-            </div>
-            <div id="w-node-_5551d5b7-6770-de2e-3e2f-77077351a71f-ae12a034" class="card about-newsletter-card">
-                <p class="heading-size-h3 color-neutral-100">And more coming soon!</p>
-                <p class="color-neutral-100 mg-bottom-16px">Subscribe to stay in the loop of our upcoming products at BRIX.</p>
-                <div class="about-newsletter-form w-form">
-                    <form id="wf-form-About-Newsletter-Form" name="wf-form-About-Newsletter-Form" data-name="About Newsletter Form" action="https://brixagency.us19.list-manage.com/subscribe/post?u=8192bad93d934a892657a635f&amp;amp;id=f40afeeba2&amp;amp;f_id=0003b6e4f0"
-                        method="post" class="newsletter-form" data-wf-page-id="63fcebbd018c536bae12a034" data-wf-element-id="29b7b145-0ee5-8825-494f-409babb2e245">
-                        <div class="position-relative"><input class="input outline-input inner-icon w-input" maxlength="256" name="Email" data-name="Email" placeholder="Enter your email" type="email" id="Email" required="" />
-                            <div class="line-rounded-icons absolute-email-input"></div>
-                        </div><input type="submit" data-wait="Please wait..." class="button-primary white subscribe-btn w-button" value="Subscribe" /></form>
-                    <div class="success-message about-newsletter w-form-done">
-                        <div>Thanks for subscribing!</div>
-                    </div>
-                    <div class="error-message w-form-fail">
-                        <div>Oops! Something went wrong while submitting the form.</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        </div>
-
-        <!-- CTA -->
-        <?php require_once('layout/cta.php'); ?>
-        <!-- CTA -->
-
-        <div id="services" data-w-id="f85aa83e-c8ee-d138-278d-2586fc74a393" class="section horizontal-section">
+        <div id="services" data-w-id="f85aa83e-c8ee-d138-278d-2586fc74a393" class="section bg-neutral-200 horizontal-section" style="padding-top:100px;padding-bottom:100px;">
             <div class="horizontal-camera">
                 <div class="container-default w-container">
                     <div class="inner-container _600px center">
@@ -307,6 +230,10 @@
                 </div>
             </div>
         </div>
+
+        <!-- CTA -->
+        <?php require_once('layout/cta.php'); ?>
+        <!-- CTA -->
 
         <!-- Footer -->
         <?php require_once('layout/footer.php'); ?>
