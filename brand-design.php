@@ -37,9 +37,9 @@
             <div class="container-default w-container">
                 <div class="project-hero-wrapper">
                     <h1 data-w-id="7425446c-08f6-465b-0ad4-2eb789deedcf" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                        class="subtitle">Brand Designs Design Agency</h1>
+                        class="subtitle">Brand Design Agency</h1>
                     <p data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd1" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                        class="heading-size-h1">Ready to take your app to the next level?</p>
+                        class="heading-size-h1">Ready to take your Brand to the next level?</p>
                     <p data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd3" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                         class="mg-bottom-32px">Design Vertices is the brand design agency your company is looking for. We help people and tech startups design premium, perfectly responsive, lightning-fast, and conversion optimized Brand Designs.</p>
                     <div data-w-id="7425446c-08f6-465b-0ad4-2eb789deedd5"
@@ -51,33 +51,29 @@
                 <div class="project-hero-images-wrapper">
                     <div class="projects-hero-marquee first">
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a1.webp" alt="Storj Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a2.webp" alt="Techflow Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a3.webp" alt="UpLead Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a4.webp" alt="Darktech Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Storj Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b2.webp" alt="Techflow Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b3.webp" alt="UpLead Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b4.webp" alt="Darktech Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b5.webp" alt="Upside Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b6.webp" alt="StarUp Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b7.webp" alt="Yesware Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b8.webp" alt="Darkweb Project - SaaS Brand Design Agency" /></div>
                         </div>
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a1.webp" alt="Storj Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a2.webp" alt="Techflow Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a3.webp" alt="UpLead Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a4.webp" alt="Darktech Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a5.webp" alt="Upside Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a6.webp" alt="StarUp Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a7.webp" alt="Yesware Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a8.webp" alt="Darkweb Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a9.webp" alt="Subsplash Project - SaaS Brand Design Agency" /></div>
-                            <div class="project-hero-item"><img src="assets/app-portfolio/a10.webp" alt="TechOS Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Storj Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b2.webp" alt="Techflow Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b3.webp" alt="UpLead Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b4.webp" alt="Darktech Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b5.webp" alt="Upside Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b6.webp" alt="StarUp Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b7.webp" alt="Yesware Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b8.webp" alt="Darkweb Project - SaaS Brand Design Agency" /></div>
                         </div>
                     </div>
                     <div class="projects-hero-marquee second">
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Darkbit Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Brand Design Agency" /></div>
@@ -89,7 +85,7 @@
                             <div class="project-hero-item"><img src="assets/6411e29fe5c8ec88ba5de609_bnkly-project-saas-web-design-agency.jpg" alt="Bnkly Project - SaaS Brand Design Agency" /></div>
                         </div>
                         <div class="hero-marquee">
-                            <div class="project-hero-item"><img src="assets/641a51e60f33b59f29b21d64_darkbit-project-saas-web-design-agency.jpg" alt="Darkbit Project - SaaS Brand Design Agency" /></div>
+                            <div class="project-hero-item"><img src="assets/brand-portfolio/b1.webp" alt="Darkbit Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/6411e2a077ffb6075047b07d_gqueues-project-saas-web-design-agency.png" alt="GQueues Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/6411e29f90e69fca7c5de3d6_dataplus-project-saas-web-design-agency.jpg" alt="Dataplus Project - SaaS Brand Design Agency" /></div>
                             <div class="project-hero-item"><img src="assets/641a51e6f414fd25d89cf350_paradox-project-saas-web-design-agency.jpg" alt="Paradox Project - SaaS Brand Design Agency" /></div>
