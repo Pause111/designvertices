@@ -98,7 +98,7 @@
             <div class="copyright-text">Copyright © 2024 Design Vertices™ | All Rights Reserved | <a href="#!"
                 class="text-link copyright-link">Sitemap</a>
             </div>
-            <p class="w-inline-block">30 N Gould St Ste N Sheridan, WY 82801</>
+            <p class="w-inline-block" style="color: var(--neutral--700);">30 N Gould St Ste N Sheridan, WY 82801</>
         </div>
     </div>
 </footer>
