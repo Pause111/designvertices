@@ -257,51 +257,12 @@
                 </div>
 
                 <div class="package-item mobile">
-                    <div class="project-images-wrapper first-row">
-                        <div class="projects-marquee first-row">
-                            <div class="marquee">
-                                <?php for ($i=1; $i <= 10; $i++) { ?>
-                                    <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
-                                        <div class="project-item-btn-wrapper">
-                                            <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                        </div>
-                                        <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
-                                    </a>
-                                <?php } ?>
-                            </div>
-                            <div class="marquee">
-                                <?php for ($i=1; $i <= 10; $i++) { ?>
-                                    <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
-                                        <div class="project-item-btn-wrapper">
-                                            <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                        </div>
-                                        <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
-                                    </a>
-                                <?php } ?>
-                            </div>
-                        </div>
-                        <div class="projects-marquee second-row">
-                            <div class="marquee">
-                                <?php for ($i = 17; $i >= 8; $i--) { ?>
-                                    <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
-                                        <div class="project-item-btn-wrapper">
-                                            <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                        </div>
-                                        <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
-                                    </a>
-                                <?php } ?>
-                            </div>
-                            <div class="marquee">
-                                <?php for ($i = 17; $i >= 8; $i--) { ?>
-                                    <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
-                                        <div class="project-item-btn-wrapper">
-                                            <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
-                                        </div>
-                                        <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
-                                    </a>
-                                <?php } ?>
-                            </div>
-                        </div>
+                    <div class="w-layout-grid features-grid four-columns">
+                        <?php for ($i=1; $i <= 16; $i++) { ?>
+                            <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
+                                <img src="assets/app-portfolio/a<?php echo $i; ?>.webp" alt="App Project - Design Vertices" />
+                            </a>
+                        <?php } ?>
                     </div>
                 </div>
 
@@ -309,7 +270,7 @@
                     <div class="w-layout-grid features-grid four-columns">
                         <?php for ($i=1; $i <= 8; $i++) { ?>
                             <div class="card">
-                                <img style="border-radius:24px" data-fancybox="gallery" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
+                                <img data-fancybox="gallery" src="assets/brand-portfolio/b<?php echo $i?>.webp" alt="brand portfolio">
                             </div>
                         <?php } ?>
                     </div>
