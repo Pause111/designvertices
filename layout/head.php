@@ -3,7 +3,7 @@
 <meta property="og:type" content="website" />
 <meta content="summary_large_image" name="twitter:card" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
-<link href="assets/css/brixagencydev.65be43398.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/style.css?v=<?php echo rand(); ?>" rel="stylesheet" type="text/css" />
 <link href="assets/favicon.jpg" rel="shortcut icon" type="image/x-icon" />
 <link href="assets/favicon.jpg" rel="apple-touch-icon" />
 
