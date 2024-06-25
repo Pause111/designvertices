@@ -14,7 +14,7 @@
     <meta content="" property="twitter:image" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
-        @media screen and (max-width: 500px) {
+        /* @media screen and (max-width: 500px) {
             .package-selectors {
                 justify-content: center !important;
                 margin-bottom: 0!important;
@@ -22,7 +22,7 @@
                 padding-top: 0!important;
                 padding-left: 16px!important;
             }
-        }
+        } */
     </style>
 </head>
 
