@@ -495,7 +495,7 @@
                         </div>
                         <div class="projects-marquee second-row">
                             <div class="marquee">
-                                <?php for ($i=11; $i <= 17; $i++) { ?>
+                                <?php for ($i = 17; $i >= 8; $i--) { ?>
                                     <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
                                         <div class="project-item-btn-wrapper">
                                             <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
@@ -505,7 +505,7 @@
                                 <?php } ?>
                             </div>
                             <div class="marquee">
-                                <?php for ($i=11; $i <= 17; $i++) { ?>
+                                <?php for ($i = 17; $i >= 8; $i--) { ?>
                                     <a data-fancybox="gallery" href="" class="project-item project-item-link w-inline-block">
                                         <div class="project-item-btn-wrapper">
                                             <div class="project-item-btn">See project <span class="line-rounded-icons button-icon"></span></div>
