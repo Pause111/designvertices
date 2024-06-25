@@ -289,7 +289,7 @@
             <div class="container-default w-container">
                 <div class="w-layout-grid features-grid three-columns">
                     <!-- Web -->
-                    <?php require_once('layout/app-packages.php'); ?>
+                    <?php require_once('layout/mobile-packages.php'); ?>
                     <!-- Web -->
                 </div>
             </div>
