@@ -21,6 +21,12 @@
         .package-item {
             display: flex !important;
         }
+
+        @media screen and (max-width: 500px) {
+            .globe-img {
+                display: none;
+            }
+        }
     </style>
 </head>
 
@@ -35,7 +41,7 @@
         <!-- Hero -->
         <div class="section hero-marquee-section">
             <div class="container-default w-container">
-                <img src="assets/earth-1.png" alt="" style="
+                <img class="globe-img" src="assets/earth-1.png" alt="" style="
                     position: absolute;
                     z-index: 1;
                     right: 2%;
