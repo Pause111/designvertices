@@ -33,7 +33,7 @@
                             class="display-1">We create amazing websites for world-class tech companies</p>
                         <div class="inner-container _540px mg-bottom-32px">
                             <p data-w-id="3c5acecc-8922-5844-e0c3-a12e1e3d5c75" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                                class="mg-bottom-0">Our team of designers &amp; developers creates amazing websites for startups, big companies, and ourselves.</p>
+                                class="mg-bottom-0">At Design Vertices, we specialize in Web development, Logo Design, Mobile App Development, SEO, SMM, Video Animation and branding across the USA to elevate your business.</p>
                         </div>
                         <div data-w-id="37829548-3eb1-bd99-684d-11eb7891875b" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                             class="button-row">
@@ -84,7 +84,7 @@
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Web Design</h3>
-                                <p class="horizontal-item-text">We make websites that look amazing, convey the right brand message and are highly oriented for conversion.</p>
+                                <p class="horizontal-item-text">Elevate your digital footprint with our innovative web design services. We craft responsive, user-friendly websites that engage visitors and drive conversions, tailored to meet the specific needs of businesses across the USA.</p>
                                 <a data-w-id="9b2430ec-f749-4843-8b3d-24d15879fbb1" href="web-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper bg-light-red">
@@ -93,14 +93,16 @@
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Mobile Apps</h3>
-                                <p class="horizontal-item-text">We make intuitive mobile apps focused on driving user engagement and increasing users retention.</p><a data-w-id="0f767243-7589-3c42-97b8-98656a6715c7" href="mobile-apps" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Stay ahead in the digital landscape with our custom mobile app development. We design intuitive, high-performance apps for iOS and Android, enhancing user engagement and providing seamless experiences.</p>
+                                <a data-w-id="0f767243-7589-3c42-97b8-98656a6715c7" href="mobile-apps" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a>
+                            </div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-yellow"><img src="assets/6414ba53ec407864f180cfe0_ui-ux-design-agency.png" loading="eager" alt="UI/UX Design Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Brand Design</h3>
-                                <p class="horizontal-item-text">We transform businesses into world-class brands by going through a well thought brand identity design process.</p><a data-w-id="f21e61bb-81d1-df41-606c-efa393909df2" href="brand-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Build a strong, memorable brand with our expert brand design services. From unique logos to comprehensive brand identities, we create visuals that capture your values and resonate with your target audience.</p><a data-w-id="f21e61bb-81d1-df41-606c-efa393909df2" href="brand-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-green"><img src="assets/64062930acab8e66b2e103de_brand-design-agency.png" loading="eager" alt="Brand Design Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -108,21 +110,21 @@
                             <div class="horizontal-item-content">
                                 <p class="subtitle">SEO</p>
                                 <h3 class="horizontal-item-heading">Conversion Optimization</h3>
-                                <p class="horizontal-item-text">We help you A/B test your website core landing pages to boost your conversion rates and get more leads.</p><a data-w-id="132deaa6-cec6-eb18-6f1d-09a5716fdcd3" href="search-engine-optimization" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Increase your website's visibility with our expert SEO services, designed to improve your search engine rankings and drive organic traffic.</p><a data-w-id="132deaa6-cec6-eb18-6f1d-09a5716fdcd3" href="search-engine-optimization" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper bg-light-purple"><img src="assets/6414a9110b22bf8cbfe6a1dc_conversion-optimization-agency.png" loading="eager" alt="Conversion Optimization Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Social Media Marketing</h3>
-                                <p class="horizontal-item-text">Elevate your online presence with our expert social media marketing strategies! 🚀</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="social-media-marketing" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Enhance your brand's presence on social media with our SMM services. We create engaging content and strategic campaigns that increase your reach, foster community engagement, and drive business growth.</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="social-media-marketing" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper bg-light-blue" style="background-color:#ffefe7;"><img src="assets/smm-service.jpg" loading="eager" alt="SMM Agency" class="horizontal-item-image" /></div>
                         </div>
                         <div class="horizontal-item">
                             <div class="horizontal-item-content">
                                 <h3 class="horizontal-item-heading">Video Animation</h3>
-                                <p class="horizontal-item-text">We help your business gain leverage and efficiency through automation using simple, yet powerful NoCode tools.</p><a data-w-id="25e52700-82e0-3151-2276-69b78ac6d75c" href="video-animation" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                                <p class="horizontal-item-text">Bring your ideas to life with our captivating video animation services. We produce high-quality animations that tell your story, explain complex concepts, and engage your audience effectively.</p><a data-w-id="25e52700-82e0-3151-2276-69b78ac6d75c" href="video-animation" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
                             <div
                                 class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/video-service.png" loading="eager" alt="Video Animation Agency" class="horizontal-item-image" /></div>
                         </div>
@@ -137,9 +139,9 @@
             <div class="container-default w-container">
                 <div data-w-id="77166c27-45a2-cd07-ef52-afe983238484" class="heading-wrapper">
                     <div class="inner-container _640px">
-                        <h2 class="subtitle">Why work with us</h2>
-                        <p class="heading-size-h2">We take you by hand on each step of the process</p>
-                        <p class="mg-bottom-0">With hundreds of successful projects, we have defined a simple (but effective) process to take you from idea to launch!</p>
+                        <h2 class="subtitle">Why work with us?</h2>
+                        <p class="heading-size-h2">Experience Our Proven Process</p>
+                        <p class="mg-bottom-0">From Idea to Launch with Precision and Support!</p>
                     </div>
                     <div class="button-row"><a data-w-id="77166c27-45a2-cd07-ef52-afe98323848e" href="contact" class="button-primary w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
                 </div>
@@ -148,7 +150,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f698c16ff68c919688_idea-phase.png" alt="Idea Phase" /></div>
                             <p class="display-3">1. Idea</p>
-                            <p class="mg-bottom-0">We meet with your team to know more about your project idea and goals. After that, our team will work together to create an action plan and proposal for your project.</p>
+                            <p class="mg-bottom-0">We begin by meticulously exploring your vision and goals, ensuring every detail of your concept is comprehensively understood and integrated into our strategic approach.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-yellow"><img src="assets/6406443ee8ca2c06cbd6ff48_project-idea-phase.png" loading="lazy" alt="Project Idea Phase" class="stacking-card-image" /></div>
                     </div>
@@ -156,7 +158,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f6a474cee78b9d9dca_research-phase.png" alt="Research Phase" /></div>
                             <p class="display-3">2. Research</p>
-                            <p class="mg-bottom-0">We will share with you a detailed questionnaire to do an in-depth analysis of your business. Once with that information, we will able to create a design that is tailor-made to reach your business goals.</p>
+                            <p class="mg-bottom-0">Our process is anchored in thorough market analysis and competitor research, guiding us to develop a strategy that ensures your project not only stands out but also meets and exceeds current industry benchmarks.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-blue"><img src="assets/64111f94f063d99a2ea7af22_project-research-phase.png" loading="lazy" sizes="(max-width: 479px) 91vw, (max-width: 991px) 94vw, (max-width: 1279px) 46vw, (max-width: 1439px) 590.71875px, 609.9166870117188px"
                                 srcset="assets/64111f94f063d99a2ea7af22_project-research-phase-p-500.png 500w, assets/64111f94f063d99a2ea7af22_project-research-phase.png 1148w"
@@ -166,7 +168,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f60a4e6d7183f97fae_design-phase.png" alt="Design Phase" /></div>
                             <p class="display-3">3. Design</p>
-                            <p class="mg-bottom-0">We are going to design a mockup or prototype of your website, and present it to you. Once with the initial mockup, we will start the revision process to perfect it.</p>
+                            <p class="mg-bottom-0">Transforming your vision into reality, our skilled designers create captivating and user-friendly interfaces that not only reflect your brand's essence but also ensure seamless user experiences.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-red"><img src="assets/6406443e4316f9d06f2d04e4_project-design-phase.png" loading="lazy" alt="Project Design Phase" class="stacking-card-image" /></div>
                     </div>
@@ -174,7 +176,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f604403e4257cff03e_development-phase.png" alt="Development Phase" /></div>
                             <p class="display-3">4. Development</p>
-                            <p class="mg-bottom-0">We are going to develop your website using the best web development standards, so you have a perfectly responsive, lightning-fast, SEO-friendly, and highly conversion-oriented website.</p>
+                            <p class="mg-bottom-0">Bringing designs to life with precision and expertise, our developers implement robust coding and functionality, ensuring your project performs flawlessly across all platforms.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-blue"><img src="assets/6406443eeae52126f2660e55_project-development-phase.png" loading="lazy" alt="Project Development Phase" class="stacking-card-image" /></div>
                     </div>
@@ -182,8 +184,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f6f7684a322b40c8fa_launch-phase.png" alt="Launch Phase" /></div>
                             <p class="display-3">5. Launch</p>
-                            <p class="mg-bottom-0">When the project is completed, we will schedule a 2hr session to train your team on how to use, edit and take advantage of your new website. After that, we will help you with the launch process to ensure everything goes perfectly
-                                smoothly.</p>
+                            <p class="mg-bottom-0">With careful planning and execution, we orchestrate a seamless and impactful launch, maximizing visibility and engagement to establish a strong market presence from the outset.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-purple"><img src="assets/6406443e2612c6be2c9d6648_project-launch-phase.png" loading="lazy" alt="Project Launch Phase" class="stacking-card-image" /></div>
                     </div>
@@ -191,7 +192,7 @@
                         <div class="stacking-card-content">
                             <div class="icon-wrapper process-icon"><img src="assets/6400d2f6f9416639e1a49c3b_support-phase.png" alt="Support Phase" /></div>
                             <p class="display-3">6. Support</p>
-                            <p class="mg-bottom-0">We don&#x27;t complete the project and leave. Instead, we keep a close relationship and communication with your team so we can help you with any design or development needs in the long term.</p>
+                            <p class="mg-bottom-0">Our commitment extends beyond launch day. We provide ongoing maintenance, updates, and strategic guidance, ensuring your project continues to evolve and thrive long after implementation.</p>
                         </div>
                         <div class="stacking-card-image-wrapper bg-light-green"><img src="assets/6406443d4c044552d33500c2_project-support-phase.png" loading="lazy" alt="Project Support Phase" class="stacking-card-image" /></div>
                     </div>
