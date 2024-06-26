@@ -8,10 +8,10 @@
     <meta content="Design Vertices is a world-class web & mobile apps development agency focused on helping tech companies design, develop, and launch amazing websites." name="description"/>
     <meta content="Design Vertices | We create amazing websites" property="og:title" />
     <meta content="Design Vertices is a world-class web design &amp; development agency focused on helping tech companies design, develop, and launch amazing websites." property="og:description" />
-    <meta content="" property="og:image" />
+    <meta content="assets/dvimg.png" property="og:image" />
     <meta content="Design Vertices | We create amazing websites" property="twitter:title" />
     <meta content="Design Vertices is a world-class web design &amp; development agency focused on helping tech companies design, develop, and launch amazing websites." property="twitter:description" />
-    <meta content="" property="twitter:image" />
+    <meta content="assets/dvimg.png" property="twitter:image" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
