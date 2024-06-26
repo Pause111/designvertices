@@ -1,7 +1,8 @@
 <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="header w-nav">
     <div class="container-default w-container">
         <div data-w-id="fad2882b-2990-69c3-069c-4273a137858d" class="header-wrapper">
-            <div class="logo-wrapper"><a href="/" aria-current="page" class="logo-container header-logo w-nav-brand w--current"><img src="assets/dvblack.png" alt="Design Vertices Logo" class="site-logo"/></a></div>
+            <div class="logo-wrapper"><a href="/" aria-current="page" class="logo-container header-logo w-nav-brand w--current">
+                <img src="assets/dvlogo.png" alt="Design Vertices Logo" class="site-logo"/></a></div>
             <div class="header-content">
                 <nav role="navigation" class="nav-menu w-nav-menu">
                     <div class="nav-menu-wrapper">
