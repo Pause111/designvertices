@@ -68,7 +68,7 @@
         <!-- Hero -->
 
         <!-- Services -->
-        <div id="services" data-w-id="832a8785-2d33-7d7f-fb23-5ad9f528124b" class="section horizontal-section bg-blue" style="padding-top: 2rem;">
+        <!-- <div id="services" data-w-id="832a8785-2d33-7d7f-fb23-5ad9f528124b" class="section horizontal-section bg-blue" style="padding-top: 2rem;">
             <div class="horizontal-camera">
                 <div class="container-default w-container">
                     <div data-w-id="227c5997-cb8c-2580-0874-0b0e3e6727b0" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
@@ -131,8 +131,74 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+        <!-- Services -->
+
+        <!-- Services -->
+        <div id="services" data-w-id="832a8785-2d33-7d7f-fb23-5ad9f528124b" class="section horizontal-section bg-blue" style="padding-top: 2rem;">
+            <div class="horizontal-camera">
+                <div class="container-default w-container">
+                    <div data-w-id="227c5997-cb8c-2580-0874-0b0e3e6727b0" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                        class="heading-wrapper horizontal-content-wrapper">
+                        <div class="inner-container _620px">
+                            <h2 class="subtitle color-neutral-100">Our services</h2>
+                            <p class="heading-size-h2 color-neutral-100 mg-bottom-0">High-impact design &amp; development services</p>
+                        </div>
+                        <div><a href="contact" data-w-id="ebe83eca-d46b-3567-de5b-4a32af58eaac" class="button-primary white w-button">Get in touch <span class="line-rounded-icons button-icon"></span></a></div>
+                    </div>
+                    <div data-w-id="aa2cfbd9-4a66-b083-ae7e-7b6384650f54" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                        class="horizontal-wrapper-content">
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <h3 class="horizontal-item-heading">Web Design</h3>
+                                <p class="horizontal-item-text">We make websites that look amazing, convey the right brand message and are highly oriented for conversion.</p>
+                                <a data-w-id="9b2430ec-f749-4843-8b3d-24d15879fbb1" href="web-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper bg-light-red">
+                                <img src="assets/64062922a09751a1098ce054_web-design-agency.png" loading="eager" alt="Web Design Agency" class="horizontal-item-image" /></div>
+                        </div>
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <h3 class="horizontal-item-heading">Mobile Apps</h3>
+                                <p class="horizontal-item-text">We make intuitive mobile apps focused on driving user engagement and increasing users retention.</p><a data-w-id="0f767243-7589-3c42-97b8-98656a6715c7" href="mobile-apps" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper center-image bg-light-yellow"><img src="assets/6414ba53ec407864f180cfe0_ui-ux-design-agency.png" loading="eager" alt="UI/UX Design Agency" class="horizontal-item-image" /></div>
+                        </div>
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <h3 class="horizontal-item-heading">Brand Design</h3>
+                                <p class="horizontal-item-text">We transform businesses into world-class brands by going through a well thought brand identity design process.</p><a data-w-id="f21e61bb-81d1-df41-606c-efa393909df2" href="brand-design" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper center-image bg-light-green"><img src="assets/64062930acab8e66b2e103de_brand-design-agency.png" loading="eager" alt="Brand Design Agency" class="horizontal-item-image" /></div>
+                        </div>
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <p class="subtitle">SEO</p>
+                                <h3 class="horizontal-item-heading">Conversion Optimization</h3>
+                                <p class="horizontal-item-text">We help you A/B test your website core landing pages to boost your conversion rates and get more leads.</p><a data-w-id="132deaa6-cec6-eb18-6f1d-09a5716fdcd3" href="search-engine-optimization" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper bg-light-purple"><img src="assets/6414a9110b22bf8cbfe6a1dc_conversion-optimization-agency.png" loading="eager" alt="Conversion Optimization Agency" class="horizontal-item-image" /></div>
+                        </div>
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <h3 class="horizontal-item-heading">Social Media Marketing</h3>
+                                <p class="horizontal-item-text">Elevate your online presence with our expert social media marketing strategies! 🚀</p><a data-w-id="df44fcd8-160e-8fd9-95b5-6d669533aa5a" href="social-media-marketing" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper bg-light-blue" style="background-color:#ffefe7;"><img src="assets/smm-service.jpg" loading="eager" alt="SMM Agency" class="horizontal-item-image" /></div>
+                        </div>
+                        <div class="horizontal-item">
+                            <div class="horizontal-item-content">
+                                <h3 class="horizontal-item-heading">Video Animation</h3>
+                                <p class="horizontal-item-text">We help your business gain leverage and efficiency through automation using simple, yet powerful NoCode tools.</p><a data-w-id="25e52700-82e0-3151-2276-69b78ac6d75c" href="video-animation" class="arrow-link small w-button">Learn more <span class="line-rounded-icons button-icon"></span></a></div>
+                            <div
+                                class="horizontal-item-image-wrapper center-image bg-light-blue"><img src="assets/video-service.png" loading="eager" alt="Video Animation Agency" class="horizontal-item-image" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <!-- Services -->
+
 
         <!-- Why Us -->
         <div class="section stacking-section" style="padding-top: 100px;padding-bottom: 100px;">
