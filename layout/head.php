@@ -4,8 +4,8 @@
 <meta content="summary_large_image" name="twitter:card" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />
 <link href="assets/css/style.css?v=<?php echo rand(); ?>" rel="stylesheet" type="text/css" />
-<link href="assets/favicon.jpg" rel="shortcut icon" type="image/x-icon" />
-<link href="assets/favicon.jpg" rel="apple-touch-icon" />
+<link href="assets/android-chrome-512x512.webp" rel="shortcut icon" type="image/x-icon" />
+<link href="assets/android-chrome-512x512.webp" rel="apple-touch-icon" />
 
 <!-- Add windows-os class to to 3D Geometric CTA -->
 <script>
