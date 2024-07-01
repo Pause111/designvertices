@@ -4,6 +4,7 @@
 
 <head>
     <?php require_once('layout/head.php'); ?>
+    <meta name="robots" content="noindex">
     <title>Get in touch with our team | Design Vertices</title>
     <meta content="Contact us today to schedule a project discovery call and tell you more about Design Vertices. One of our team members will get back to you within 24 business hours." name="description"/>
     <meta content="Get in touch with our team | Design Vertices" property="og:title" />

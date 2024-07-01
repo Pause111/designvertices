@@ -5,6 +5,8 @@
 <head>
     <?php require_once('layout/head.php'); ?>
     <title>Portfolio | Design Vertices</title>
+<meta name="robots" content="noindex">
+
     <meta content="Design Vertices is a world-class web & mobile apps development agency focused on helping tech companies design, develop, and launch amazing websites." name="description"/>
     <meta content="Design Vertices | We create amazing websites" property="og:title" />
     <meta content="Design Vertices is a world-class web design &amp; development agency focused on helping tech companies design, develop, and launch amazing websites." property="og:description" />

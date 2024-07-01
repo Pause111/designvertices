@@ -4,6 +4,8 @@
 
 <head>
     <?php require_once('layout/head.php'); ?>
+<meta name="robots" content="noindex">
+
     <title>The #1 mobile app design agency | Design Vertices</title>
     <meta content="Looking to design an amazing mobile app for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
     <meta content="The #1 SaaS mobile app design agency | Design Vertices" property="og:title" />

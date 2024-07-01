@@ -1,5 +1,5 @@
 <meta charset="utf-8" />
-<meta name="robots" content="noindex">
+<!-- <meta name="robots" content="noindex"> -->
 <meta property="og:type" content="website" />
 <meta content="summary_large_image" name="twitter:card" />
 <meta content="width=device-width, initial-scale=1" name="viewport" />

@@ -4,6 +4,7 @@
 
 <head>
     <?php require_once('layout/head.php'); ?>
+    <meta name="robots" content="noindex">
     <title>About us | Design Vertices</title>
     <meta content="We are not just an agency, we are a studio of creatives that build amazing products for startups, companies, and ourselves." name="description" />
     <meta content="About us | Design Vertices" property="og:title" />

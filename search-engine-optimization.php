@@ -5,6 +5,8 @@
 <head>
     <?php require_once('layout/head.php'); ?>
     <title>The #1 SEO agency | Design Vertices</title>
+<meta name="robots" content="noindex">
+
     <meta content="Looking to design an amazing SEO for your startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." name="description"/>
     <meta content="The #1 SaaS SEO agency | Design Vertices" property="og:title" />
     <meta content="Looking to design an amazing SEO for your SaaS startup? Design Vertices is one of the best SaaS design agencies with 100+ successful projects for SaaS companies." property="og:description" />
